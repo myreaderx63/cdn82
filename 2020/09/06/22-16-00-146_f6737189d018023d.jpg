@@ -1,0 +1,2121 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,600,700,300italic,400italic" media="none" onload="if(media!='all')media='all'" />
+      <meta name="apple-itunes-app" content="app-id=451314284,app-argument=travelzoo://travelzoo/1/top20/" />
+    <meta name="google-play-app" content="app-id=com.travelzoo.android,app-argument='travelzoo://travelzoo/1/top20/'">
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>Travelzoo: Deals on Hotels, Flights, Vacations, Cruises &amp; More</title>
+  
+    <meta name="description" content="Travel deals on hotels, flights, vacation packages, cruises and local &amp; entertainment deals too. Join millions of travelers who already use Travelzoo!" />
+  <link rel="apple-touch-icon" sizes="57x57" href="https://ssl.tzoo-img.com/res/favicon/apple-touch-icon-57x57.png?v=xe4jpu" async />
+  <link rel="apple-touch-icon" sizes="60x60" href="https://ssl.tzoo-img.com/res/favicon/apple-touch-icon-60x60.png?v=xe4jpu" async />
+  <link rel="apple-touch-icon" sizes="72x72" href="https://ssl.tzoo-img.com/res/favicon/apple-touch-icon-72x72.png?v=xe4jpu" async />
+  <link rel="apple-touch-icon" sizes="76x76" href="https://ssl.tzoo-img.com/res/favicon/apple-touch-icon-76x76.png?v=xe4jpu" async />
+  <link rel="apple-touch-icon" sizes="114x114" href="https://ssl.tzoo-img.com/res/favicon/apple-touch-icon-114x114.png?v=xe4jpu" async />
+  <link rel="apple-touch-icon" sizes="120x120" href="https://ssl.tzoo-img.com/res/favicon/apple-touch-icon-120x120.png?v=xe4jpu" async />
+  <link rel="apple-touch-icon" sizes="144x144" href="https://ssl.tzoo-img.com/res/favicon/apple-touch-icon-144x144.png?v=xe4jpu" async />
+  <link rel="apple-touch-icon" sizes="152x152" href="https://ssl.tzoo-img.com/res/favicon/apple-touch-icon-152x152.png?v=xe4jpu" async />
+  <link rel="apple-touch-icon" sizes="180x180" href="https://ssl.tzoo-img.com/res/favicon/apple-touch-icon-180x180.png?v=xe4jpu" async />
+  <link rel="icon" type="image/png" href="https://ssl.tzoo-img.com/res/favicon/favicon-32x32.png?v=xe4jpu" sizes="32x32" async />
+  <link rel="icon" type="image/png" href="https://ssl.tzoo-img.com/res/favicon/favicon-194x194.png?v=xe4jpu" sizes="194x194" async />
+  <link rel="icon" type="image/png" href="https://ssl.tzoo-img.com/res/favicon/favicon-96x96.png?v=xe4jpu" sizes="96x96" async />
+  <link rel="icon" type="image/png" href="https://ssl.tzoo-img.com/res/favicon/android-chrome-192x192.png?v=xe4jpu" sizes="192x192" async />
+  <link rel="icon" type="image/png" href="https://ssl.tzoo-img.com/res/favicon/favicon-16x16.png?v=xe4jpu" sizes="16x16" />
+  <link rel="manifest" href="https://ssl.tzoo-img.com/res/favicon/manifest.json?v=xe4jpu" async />
+ <link rel="alternate" hreflang="en-us" href="https://www.travelzoo.com/" /> 
+ <link rel="alternate" hreflang="en-sg" href="https://www.travelzoo.com/ae/" /> 
+ <link rel="alternate" hreflang="en-au” " href="https://www.travelzoo.com/au/" /> 
+ <link rel="alternate" hreflang="en-ca" href="https://www.travelzoo.com/ca/" /> 
+ <link rel="alternate" hreflang="zh-cn" href="https://www.travelzoo.com/cn/" /> 
+ <link rel="alternate" hreflang="fr-fr" href="https://www.travelzoo.com/fr/" /> 
+ <link rel="alternate" hreflang="de-de" href="https://www.travelzoo.com/de/" /> 
+ <link rel="alternate" hreflang="zh-hk" href="https://www.travelzoo.com/hk/" /> 
+ <link rel="alternate" hreflang="ja-jp" href="https://www.travelzoo.com/jp/" /> 
+ <link rel="alternate" hreflang="es-es" href="https://www.travelzoo.com/es/" /> 
+ <link rel="alternate" hreflang="zh-tw" href="https://www.travelzoo.com/tw/" /> 
+ <link rel="alternate" hreflang="en-gb” " href="https://www.travelzoo.com/uk/" /> 
+ <link rel="alternate" hreflang="en" href="https://www.travelzoo.com/" /> 
+ <link rel="alternate" hreflang="x-default" href="https://www.travelzoo.com/select/" />      <link rel="canonical" href="https://www.travelzoo.com/" async />
+      <meta name="msapplication-TileColor" content="#da532c" />
+  <meta name="msapplication-TileImage" content="https://ssl.tzoo-img.com/res/favicon/mstile-144x144.png?v=xe4jpu" />
+  <meta name="theme-color" content="#ffffff" />
+  
+    <meta property="fb:pages" content="14074130141" />
+<meta name="baidu-site-verification" content="BFQjzFSOTt" />
+    <link rel="alternate" type="application/atom+xml" title="Travelzoo Deals" href="https://www.travelzoo.com/feed/" />
+        <meta property="fb:app_id" content="140333999364794">
+    <meta property="og:url" content="http://www.travelzoo.com/">
+    <meta property="og:site_name" content="Travelzoo">
+    <meta property="og:type" content="website">
+        <meta property="og:image" content="https://ssl.tzoo-img.com/images/tzoo.80406.0.919641.Machu-Picchu-Peru-iStock-513491364.jpg?v=2&amp;width=1080">
+    <meta content="1080" property="og:image:width">
+    <meta content="650" property="og:image:height">
+    <meta name="twitter:site" content="@Travelzoo">
+    <meta name="twitter:card" content="summary_large_image">
+
+
+  <script>
+    (function (tzoo) {
+        'use strict';
+
+        tzoo.EnvironmentPrefix='';
+        tzoo.ServiceBaseUrl = '/api/';
+        tzoo.TrackingBaseUrl = 'https://data.travelzoo.com/';
+        tzoo.AssetUrl='https://ssl.tzoo-img.com/';
+        tzoo.UrlPrefix = '/';
+        tzoo.TzLocale = 1;
+        tzoo.Lcid = 'en-US';
+        tzoo.MemberId = 'uJmxFCJxCx0OUE6bDdCFKw==';
+        tzoo.MemberIdLoggedIn = '';
+        tzoo.CountryCode = 'us';
+        tzoo.websiteType = 7;
+        tzoo.isMobile = false; 
+        tzoo.isSmartPhone = false;
+        tzoo.clickSource = '';
+        tzoo.dealPlatform = {"Travel":0,"Local":1,"Hotel":2,"HotelDeal":3,"Story":4,"Collection":5,"None":-1};
+        tzoo.searchResultsPerPage=20;
+        tzoo.filterDisplayCount=7;
+        tzoo.decimalSeparator = '.';
+        tzoo.checkinDateParameter = 'checkinDate';
+        tzoo.checkoutDateParameter = 'checkoutDate';
+        tzoo.CurrentPageType = 'Home';
+        tzoo.SearchHistoryStorageName = '_rsh_73833785_us';
+        tzoo.IsUser = true;
+        
+        tzoo.resources = tzoo.resources || {};
+        tzoo.resources[':SearchInvalid'] = 'To search, choose a category from the box on the left and/or select a destination in the box on the right.';
+        tzoo.resources[':Loading'] = 'Loading...';
+        tzoo.resources[':Gallery.Counter'] = '';
+        tzoo.resources[':Gallery.Prev'] = 'Previous';
+        tzoo.resources[':Gallery.Next'] = 'Next';
+        tzoo.resources[':SetMyLocation'] = 'Set My Location';
+        tzoo.resources[':SetMyLocationShort'] = 'Set';
+        tzoo.resources[':FlightSearch.Enabled'] = 'false';
+        tzoo.resources[':Update'] = 'Update';
+        tzoo.resources[':SearchNearMe'] = 'Search near me in:';
+        tzoo.resources['BackToResult'] = 'Back to Results';
+        tzoo.resources['BackToResultShort'] = 'Back';
+        tzoo.resources['BackToTop20'] = 'Back to the Top 20';
+        tzoo.resources['Top20'] = '';
+        tzoo.resources['SearchWidget.SearchHistoryLabel'] = 'SEARCH HISTORY';
+        tzoo.resources['SearchWidget.CollapseLabel'] = 'Show Less';
+        tzoo.resources['SearchWidget.ExpandLabel'] = 'Show More';
+        tzoo.resources['SearchWidget.AnywhereLabel'] = 'Anywhere';
+        tzoo.resources['SearchWidget.NearMe'] = 'Near Me';
+        tzoo.globalization = {
+            longDatePattern : 'M dd, yy',
+            invariantCultureUrlDatePattern : 'mm/dd/yy',
+            calendar : {
+                longDatePattern : 'D, M d',
+                shortMonthNameDayPattern : 'M d'
+            },
+            utcOffset: -5
+            };
+        tzoo.zipValidation = {"US":"^\\d{5}([ -]\\d{4})?$","UK":"(^BFPO ?\\d{1,4}$^(?:GIR 0AA)|(?:(?:(?:A[BL]|B[ABDHLNRSTX]?|C[ABFHMORTVW]|D[ADEGHLNTY]|E[HNX]?|F[KY]|G[LUY]?|H[ADGPRSUX]|I[GMPV]|JE|K[ATWY]|L[ADELNSU]?|M[EKL]?|N[EGNPRW]?|O[LX]|P[AEHLOR]|R[GHM]|S[AEGKLMNOPRSTY]?|T[ADFNQRSW]|UB|W[ADFNRSV]|YO|ZE)[1-9]?[0-9]|((E|N|NW|SE|SW|W)1|EC[1-4]|WC[12])[A-HJKMNPR-Y]|(?:SW|W)(?:[2-9]|[1-9][0-9])|EC[1-9][0-9])\\s*[O0-9][ABD-HJLNP-UW-Z]{2})$)|(^[A-Za-z]{1,2}[\\d]{1,2}[A-Za-z]{0,1}$)","GB":"(^BFPO ?\\d{1,4}$^(?:GIR 0AA)|(?:(?:(?:A[BL]|B[ABDHLNRSTX]?|C[ABFHMORTVW]|D[ADEGHLNTY]|E[HNX]?|F[KY]|G[LUY]?|H[ADGPRSUX]|I[GMPV]|JE|K[ATWY]|L[ADELNSU]?|M[EKL]?|N[EGNPRW]?|O[LX]|P[AEHLOR]|R[GHM]|S[AEGKLMNOPRSTY]?|T[ADFNQRSW]|UB|W[ADFNRSV]|YO|ZE)[1-9]?[0-9]|((E|N|NW|SE|SW|W)1|EC[1-4]|WC[12])[A-HJKMNPR-Y]|(?:SW|W)(?:[2-9]|[1-9][0-9])|EC[1-9][0-9])\\s*[O0-9][ABD-HJLNP-UW-Z]{2})$)|(^[A-Za-z]{1,2}[\\d]{1,2}[A-Za-z]{0,1}$)","CA":"^[A-Z]\\d[A-Z][ -]?\\d[A-Z]\\d$","DE":"^\\d{5}$","FR":"^\\d{5}([ -]\\d{4})?$","ES":"^([1-9]{2}|[0-9][1-9]|[1-9][0-9])[0-9]{3}$","AU":"^\\d{4}$","HK":".*","JP":"^\\d{3}[-\uFF0D]?\\d{4}$","CN":".*"};
+        tzoo.zipValidation["generic"] = '^[- A-Z0-9]+$';
+        tzoo.currencyCode = 'USD';
+        tzoo.gaProductClass = ' ga-product';
+        
+        tzoo.gaProductHtmlAttributesForTemplate = function (idToken, idPrefixToken, sourceToken, categoryToken, nameToken, dealTypeToken, platformToken, priceToken, positionToken, widgetName) {
+            var ret = ''
+            var attribs = {}
+            if (idToken && idToken.length !== 0 && idPrefixToken) {
+                attribs['data-ga-product-id'] = idPrefixToken + idToken
+            }
+            if (typeof platformToken != 'undefined' && platformToken !== null) {
+                attribs['data-ga-product-platform'] = platformToken.toString()
+            }
+            if (priceToken && priceToken.length !== 0) {
+                attribs['data-ga-product-price'] = priceToken
+            }
+            if (sourceToken && sourceToken.length !== 0) {
+                attribs['data-ga-product-brand'] = sourceToken
+            }
+            if (categoryToken && categoryToken.length !== 0) {
+                attribs['data-ga-product-category'] = categoryToken
+            }
+            if (nameToken && nameToken.length !== 0) {
+                attribs['data-ga-product-name'] = nameToken
+            }
+            if (dealTypeToken && dealTypeToken.length !== 0) {
+                attribs['data-ga-product-dealtype'] = dealTypeToken
+            }
+            if (typeof positionToken != 'undefined' && positionToken !== null) {
+                attribs['data-ga-product-position'] = positionToken.toString()
+            }
+            if (typeof widgetName === 'string') {
+                attribs['data-ga-product-widgetname'] = widgetName.toString()
+            }
+
+            if (Object.keys(attribs).length != 0) {
+                for (var key in attribs) {
+                    var value = attribs[key];
+                    ret += ' ' + key + '="' + tzoo.htmlAttributeEncode(value) + '"'
+                }
+            }
+            return ret
+        }
+        var dealCategoryImages = [{"id":0,"image":"generic"},{"id":1,"image":"flight"},{"id":2,"image":"hotel"},{"id":3,"image":"vacation"},{"id":4,"image":"entertainment"},{"id":5,"image":"cruise"},{"id":6,"image":"car"},{"id":7,"image":"lastminute"},{"id":8,"image":"generic"},{"id":9,"image":"generic"},{"id":10,"image":"rail"},{"id":-1,"image":"spa"},{"id":-2,"image":"restaurant"},{"id":-3,"image":"activity"}];
+        tzoo.dealCategoryImagesLookup = {}
+        for (var i = 0, len = dealCategoryImages.length; i < len; i++) {
+            tzoo.dealCategoryImagesLookup[dealCategoryImages[i].id] = dealCategoryImages[i];
+        }
+        tzoo.tagType = {"None":0,"Theme":1,"Category":2,"Adhoc":3};
+                    
+            tzoo.agilOneKey = "$2a$10$LaK0kcwju1gx.1mGIiKdfOb4x4SSzGcYjf2dASUF73zEvaN/AZ0Fu";
+            
+                tzoo.pagingStorageName='gds';
+    })(window.tzoo = window.tzoo || {});
+</script>
+
+  
+<script type="text/javascript">
+    var gtmDL = [{'env':'production','sit':0,'sei':1,'sec':'US','aid':5,'mid':73833785,'ili':0,'sed':['us'],'dlv':2,'sot':'true','csr':undefined,'cnm':undefined,'pp':undefined,'isp':false,'irs':true,'cpt':'home'}];
+</script>
+
+
+    <!-- Modified Analytics tracking code with Optimize plugin-->
+    <script> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-3033653-1');  // Update tracker settings
+        ga('require', 'GTM-5W57HHD', { 'dataLayer': 'gtmDL' });           // Optimize Container ID
+    </script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','gtmDL','GTM-WKCPVV');</script>
+  
+
+  
+
+  <link rel="stylesheet" type="text/css" href="https://ssl.tzoo-img.com/BundleHandler.ashx?f=%2fres%2fvendor%2fjquery-ui%2fjquery-ui.min.css%2c%2fres%2fcss%2fgen%2ftzsg-global.css%2c%2fres%2fcss%2fgen%2fsignup-overlay.css%2c%2fres%2fcss%2fgen%2fwidget-sitesearch.css%2c%2fres%2fcss%2fgen%2flocation.css%2c%2fres%2fvendor%2fsmartbanner%2fjquery.smartbanner.css&v=XE4JPU-"><link rel="stylesheet" type="text/css" href="https://ssl.tzoo-img.com/BundleHandler.ashx?f=%2fres%2fcss%2fgen%2fhome.css&v=XE4JPU-">
+
+</head>
+<body id="bodyTop" class="tzoo-member tzoo-notloggedin  ">
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WKCPVV" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  
+    <header role="banner" class="global-header nocontent ">
+      <div class="header-content push">
+            <div class="logo-header">
+
+              <a href="/" class="logo-travelzoo" title="Travelzoo">Travelzoo<sup>®</sup></a>
+            </div>
+        
+          <div data-name="header-menu-container" class="header-menu">
+            <a role="button" class="header-menu-toggle icon-member-sm hide-text">Menu</a>
+            <div class="header-menu-list">
+              <ul>
+                <li class="fb-button">
+                  
+                  
+            <div class="fb-like" data-href="https://www.facebook.com/travelzoo/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+
+
+
+                </li>
+                <li>
+                    <ul class="js-header-content">
+                      
+
+
+    <li class="member-menu">
+        <a id="aMemRecog" role="button" class="member-menu-toggle hidden"></a>
+        <ul class="member-menu-ul">
+            <li id="liMemberSince" class="membersince">Travelzoo Member</li>
+
+                <li class="myaccount">
+                    <a class="js-myaccount" href="/MyAccount/">My Account</a>
+                </li>
+
+            <li class="mypurchases"><a href="/MyAccount/MyPurchases/?tab=Purchases">Purchases</a></li>
+            <li class="myfavorites"><a href="/MyAccount/MyFavorites/?tab=Favorites">Favorites</a></li>
+            <li class="signout"><a href="/MyAccount/logout/">Sign Out</a></li>
+        </ul>
+    </li>
+
+
+<li class="signin hidden" data-clientsideloginlogout="false">
+    <a role="button" data-clientsideloginlogout="false">Sign in</a>
+</li>
+
+    <li class="site-edition">
+        <a role="button" class="site-edition-toggle"><i class="flag-us-sm" title="US edition"></i> U.S.</a>
+    </li>
+
+
+
+
+                    </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+                            <span id="extole-zone-global_header" class="hidden-sm hidden-xs"></span>
+            <span id="extole-zone-mobile_header" class="hidden-md hidden-lg"></span>
+                <div id="header-back-nav" class="hidden-md-larger hidden">
+        </div>
+      </div>
+    </header>
+    
+
+
+
+<nav class="nav-home">
+    <div class="hero-bg midtop">
+        <video id="bgvideo" loop muted poster="https://ssl.tzoo-img.com/images/453589.jpg?v=xe4jpu" tabindex="-1">
+            <source data-src="https://ssl.tzoo-img.com/video/453589.mp4?v=xe4jpu" type="video/mp4">
+        </video>
+    </div>
+    <div class="fixed-container">
+        
+
+<form class="search-form ada-auto-proxy ada-auto-ignore   " id="header-search-form">
+    <input id="page-type-field" type="hidden" value="Homepage" />
+    <div class="search-heading-container">
+        <h3>Show me:</h3>
+    </div>
+    <div class="push search-fields">
+        <div class="what-field-container clear-in-field">
+            <label class="sr-only" for="what-field-1">What type of deals?</label>
+            <input id="what-field-1" class="input-clear js-input-clear" type="text" placeholder="e.g. Hotels, beach, Disney" value="All Deals" autocomplete="off" />
+            <input id="what-field-value-1" type="hidden" value="0" data-name="All Deals" data-searchtype="0" />
+            <button type="button" class="button-clear js-button-clear" tabindex="-1">x</button>
+        </div>
+        <div class="where-field-container js-location-autocomplete clear-in-field" data-query-type="exapt">
+            <label class="sr-only" for="where-field-1">Where?</label>
+            <input id="where-field-1" class="input-clear js-input-clear" type="text" placeholder="Anywhere..." autocomplete="off" />
+            <input id="where-field-value-1" type="hidden" value="" />
+            <button type="button" class="button-clear js-button-clear" tabindex="-1">x</button>
+        </div>
+        <div class="where-from-field-container js-location-autocomplete clear-in-field" data-query-type="apt">
+            <label class="sr-only" for="where-from-field-1">Where from?</label>
+            <input id="where-from-field-1" class="input-clear js-input-clear" type="text" placeholder="From..." autocomplete="off" data-suppress-default-locations="true" />
+            <input id="where-from-field-value-1" type="hidden" />
+            <button type="button" class="button-clear js-button-clear" tabindex="-1">x</button>
+        </div>
+        <div class="where-to-field-container js-location-autocomplete clear-in-field" data-query-type="apt">
+            <label class="sr-only" for="where-to-field-1">Where to?</label>
+            <input id="where-to-field-1" class="input-clear js-input-clear" type="text" placeholder="To..." autocomplete="off" />
+            <input id="where-to-field-value-1" type="hidden" />
+            <button type="button" class="button-clear js-button-clear" tabindex="-1">x</button>
+        </div>
+        <div class="when-field-container">
+            <label class="sr-only" for="when-field-1">When?</label>
+            <input id="when-field-1" type="text" placeholder="Anytime..." value="All Dates" autocomplete="off" readonly />
+            <input id="when-field-value-1" type="hidden" value="Anytime" />
+            <input id="when-field-value-month-1" type="hidden" value="" />
+        </div>
+        <div class="guests-field-container">
+            <label class="sr-only" for="guests-field-1">How many guests?</label>
+            <select id="guests-field-1" data-selected="2">
+                <option value="1">1 Guest</option>
+                <option value="2">2 Guests</option>
+                <option value="3">3 Guests</option>
+                <option value="4">4 Guests</option>
+                <option value="5">5 Guests</option>
+            </select>
+        </div>
+        <div class="travelers-field-container">
+            <label class="sr-only" for="travelers-field-1">How many travelers?</label>
+            <select id="travelers-field-1" data-selected="1">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+            </select>
+        </div>
+    </div>
+    <div class="push search-submit-container">
+        <button id="search-button-1" type="submit" title="Search">Search Deals</button>
+    </div>
+</form>
+
+<div id="when-menu-container" style="display: none; z-index: 101;" class="ada-auto-ignore ">
+    <div class="close-button-container hidden">
+        <button id="close-button" class="fullscreen-overlay-close" type="button">Close</button>
+    </div>
+    <div id="when-menu">
+        <h3>Upcoming Dates</h3>
+        <div class="when-submenu">
+            <ul>
+                <li data-date-type="Anytime">All Dates</li> 
+                    <li data-date-type="ThisWeekend">This Weekend</li>
+                <li data-date-type="NextMonth">Next Month</li>
+                <li data-date-type="Spring">Spring</li>
+                <li data-date-type="Summer">Summer</li>
+                <li data-date-type="Fall">Fall</li>
+                <li data-date-type="Winter">Winter</li>
+            </ul>
+        </div>
+        <h3>Select a Month</h3>
+        <div class="when-submenu">
+            <ul>
+                <li data-date-type="SpecificMonth" data-month="1">January</li>
+                <li data-date-type="SpecificMonth" data-month="2">February</li>
+                <li data-date-type="SpecificMonth" data-month="3">March</li>
+                <li data-date-type="SpecificMonth" data-month="4">April</li>
+                <li data-date-type="SpecificMonth" data-month="5">May</li>
+                <li data-date-type="SpecificMonth" data-month="6">June</li>
+                <li data-date-type="SpecificMonth" data-month="7">July</li>
+                <li data-date-type="SpecificMonth" data-month="8">August</li>
+                <li data-date-type="SpecificMonth" data-month="9">September</li>
+                <li data-date-type="SpecificMonth" data-month="10">October</li>
+                <li data-date-type="SpecificMonth" data-month="11">November</li>
+                <li data-date-type="SpecificMonth" data-month="12">December</li>
+            </ul>
+        </div>
+        <h3 class="exact-dates-display">Exact Dates</h3>
+        <div class="when-submenu exact-dates-container">
+            <div class="exact-dates">
+                <div class="exact-dates-header clear-in-field">
+                    <input type="text" class="date-field input-clear period" id="period-selection" placeholder="" readonly>
+                    <button type="button" class="button-clear" tabindex="-1">x</button>
+                </div>
+                <div class="heatmap-legend hidden ">
+                    <h3>Average prices:</h3><div class="legend-boxes"><div class="low-box"><span></span> $</div><div class="medium-box"><span></span> $$</div><div class="high-box"><span></span> $$$</div></div>
+                </div>
+                <div class="clear-both"></div>
+                <div id="dpExactDates"></div>
+                <input id="when-field-value-startDate-1" type="hidden" value="" />
+                <input id="when-field-value-endDate-1" type="hidden" value="" />
+            </div>
+        </div>
+    </div>
+</div>
+<div class="search-overlay-button">
+    <button type="button">
+            Search Travelzoo Deals
+    </button>
+</div>
+
+
+        <div class="quicklinks">
+            <ul>
+                    <li>
+                            <a href="/top20/" class="no-touch"><svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64"><path fill="#0276EE" d="M41.2 25.8c1.7 0 2.6 1 2.5 3.1V47c0 2.1-.8 3.1-2.5 3.1-1.6 0-2.5-1-2.5-3.1V28.9c0-2.1.8-3.1 2.5-3.1m-6.7-11c.1-.4.2-.7.2-1.1 0-.4-.1-.8-.2-1.1-.1-.4-.3-.7-.6-.9-.3-.3-.6-.5-.9-.6-.4-.2-.7-.2-1.1-.2-.4 0-.8.1-1.2.2l-.9.6-.6.9c-.1.4-.2.7-.2 1.1 0 .4.1.8.2 1.1.1.4.3.7.6.9s.6.5.9.6c.3.2.7.2 1.2.2.4 0 .8-.1 1.1-.2.4-.2.6-.4.9-.6.3-.3.5-.6.6-.9m11.9-1.6c.3-.3.4-.6.4-1 0-.5-.2-.8-.5-1.1-.3-.2-.7-.4-1.2-.4h-1.6v2.9h1.6c.6 0 1-.1 1.3-.4M32 0c17.7 0 32 14.3 32 32S49.7 64 32 64 0 49.7 0 32 14.3 0 32 0m9.4 18.3h2.1v-2.8h1.6c.5 0 1-.1 1.5-.2s.9-.3 1.2-.6c.3-.3.6-.6.8-1 .2-.4.3-.9.3-1.4 0-.5-.1-.9-.2-1.3s-.4-.7-.7-1c-.3-.3-.7-.5-1.1-.7-.4-.2-1-.2-1.5-.2h-3.9v9.2zm-26.3-7.5H18v7.5h2.1v-7.5H23V8.9h-7.8v1.9zm5.4 38.6c8.7-12.1 10.3-15.8 10.3-20.9 0-3.7-3-7.1-7.5-7.1-5.1 0-8.2 3.6-8.2 8.4v1.5h5.3v-2.2c0-1.9.8-3.3 2.6-3.3 1.6 0 2.5 1.1 2.5 3.6 0 4.7-3.7 10.3-10.6 20.2V54h15.4v-4.6h-9.8zm11.4-30.9c.7 0 1.4-.1 2-.4.6-.3 1.1-.6 1.6-1.1.4-.4.8-1 1-1.6.3-.6.4-1.2.4-1.9s-.1-1.3-.4-1.9c-.2-.6-.6-1.1-1-1.5-.4-.4-1-.8-1.6-1s-1.3-.4-2-.4-1.4.1-2 .4c-.6.3-1.1.6-1.6 1.1-.4.4-.8 1-1 1.6-.3.6-.4 1.2-.4 1.9s.1 1.3.4 1.9c.2.6.6 1.1 1 1.5s1 .8 1.6 1c.6.3 1.2.4 2 .4m17.2 11.8c0-6-2.3-8.8-7.8-8.8s-7.8 2.8-7.8 8.8v15.4c0 6 2.3 8.8 7.8 8.8s7.8-2.8 7.8-8.8V30.3z"/></svg> <span>Top 20</span></a>
+                    </li>
+                    <li>
+                            <a href="/collections/vacations/" class="no-touch"><svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64"><path fill="#0276EE" d="M32 0C14.3 0 0 14.3 0 32s14.3 32 32 32 32-14.3 32-32S49.7 0 32 0m13.2 57.8c.5-.9.9-1.9 1.5-2.9 4-7.5 5.4-15.5 3.7-23.9 0-.1.6-.7 1.5-1.2 1 .5 2.3 1.1 3.6 1.7-.3-2.9-1.5-5.1-4-6.7 1.9-.7 3.7-1.3 5.6-1.9-2.5-2.7-9.1-3.7-11.2 1.5-1.5-2-3.6-2.7-6-2.3-2.1.3-3.7 1.4-5.1 3.1 2 .3 3.9.7 5.9 1-2.2 2-3 4.4-2.8 7.3 2.1-1.5 4-2.9 6-4.3.4 1.9 1.3 2.3 2.9 1.3.3 1.2.7 2.4.9 3.5 1 7.1-.2 13.7-4 19.8-1 1.6-2.2 2.9-3.7 4-.2.1-.4.2-.5.3 2.3-12.9-.8-24.5-8.1-35.2.8-.4 1.1-1.3 1.2-2.3 1.4-.1 2.8-.2 4.3-.4-1.6-2.6-3.6-4.3-6.8-4.5 1.3-1.8 2.6-3.5 3.8-5.2-3.8-1.3-9.8 2-9 7.9-.9-.1-1.9-.3-2.9-.3-1.2 0-2.2.7-3.1 1.5-1.9 1.7-2.8 3.8-3.2 6.4 1.9-.8 3.7-1.6 5.6-2.5-.8 3.2-.4 6.2 1.3 9.1 1-2.7 2-5.3 3-7.9 1.3 1.7 2.2 1.6 3.1-.3.7.8.7 1.6 1.3 2.4 3 3.9 4.8 8.3 6 13.1.9 4 .5 8 0 12-.3 2.1-2.2 7.2-2.8 9h-1.3C16 61 3 48 3 32 3 16 16 3 32 3s29 13 29 29c0 11.2-6.5 21-15.8 25.8"/></svg> <span>Vacations</span></a>
+                    </li>
+                    <li>
+                            <a href="/collection/hotels/" class="no-touch"><svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64"><path fill="#0276EE" d="M32 3c16 0 29 13 29 29S48 61 32 61 3 48 3 32 16 3 32 3m0-3C14.3 0 0 14.3 0 32s14.3 32 32 32 32-14.3 32-32S49.7 0 32 0m19 26c1 0 1.8.7 1.8 1.6v13.9c0 .9-.8 1.6-1.8 1.6s-1.8-.7-1.8-1.6v-3.7H14.8v3.7c0 .9-.8 1.6-1.8 1.6s-1.8-.7-1.8-1.6v-19c0-.9.8-1.6 1.8-1.6s1.8.7 1.8 1.6v12.2h34.4v-7.1c0-.9.8-1.6 1.8-1.6m-31.8.9c-1.8 0-3.3 1.3-3.3 2.9 0 1.6 1.5 2.9 3.3 2.9s3.3-1.3 3.3-2.9c0-1.6-1.5-2.9-3.3-2.9m26.4.7H26.8c-2.6 0-3.3 1.9-3.5 2.6 0 .1 0 .2-.1.4-.1.5-.4 1-.8 1.4-.2.1-.3.3-.3.5 0 .4.3.7.8.7h22.6c1 0 1.8-.7 1.8-1.6v-2.5c.1-.8-.7-1.5-1.7-1.5"/></svg> <span>Hotels</span></a>
+                    </li>
+                    <li>
+                            <a href="/collections/things-to-do/" class="no-touch"><svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64"><path fill="#0276EE" d="M38.6 10.9l-2.4 4.9c-.3.6-1 .8-1.6.5-.6-.3-.8-1-.5-1.6l2.4-4.9c.3-.6 1-.8 1.6-.5.6.3.8 1 .5 1.6m4.8 4.4c.4-.5.4-1.2 0-1.6s-1.2-.4-1.6 0l-3.8 4c-.4.5-.4 1.2 0 1.6.5.4 1.2.4 1.6 0l3.8-4M31.1 12c-.1-.6-.7-1.1-1.3-1s-1.1.7-1 1.3l.9 5.4c.1.6.7 1.1 1.3 1s1.1-.7 1-1.3l-.9-5.4M32 0c17.7 0 32 14.3 32 32S49.7 64 32 64 0 49.7 0 32 14.3 0 32 0m-4.8 32.5c.1-4.3 0-8.6 0-10.6l-7.6-.9c-.5 2.1-1.7 7-2.7 11.5h10.3m7.7-6.2c.1 2 .3 6.3.6 10.6h10.6c-1.3-4.7-2.9-9.8-3.6-12l-7.6 1.4m12 30.6C55.3 51.8 61 42.6 61 32 61 16 48 3 32 3S3 16 3 32c0 10.5 5.6 19.6 13.9 24.7l.8-6.9v-.1-.3l-.1-.1c-.2-.2-1.1-.9-1.6-1.2-1.8-1.2-3.6-3.9-3.4-7.1.3-5.4 4.4-21.1 4.6-21.8.2-.6.8-1.1 1.4-1l9.9 1.1c.7.1 1.2.6 1.2 1.3 0 .7.4 16.9-.5 22.2-.6 3.2-2.9 5.4-4.9 6.2-.6.2-1.6.7-1.8.9l-.1.1v.2l-1 8.4c0 .1 0 .2-.1.3 3.3 1.3 7 2.1 10.7 2.1 3.7 0 7.3-.7 10.6-2l-1-4.5v-.1c0-.2-.1-.2-.1-.3l-.1-.1c-.2-.1-1.3-.6-1.9-.7-2-.6-4.6-2.7-5.3-5.9-1.3-5.2-1.9-21.5-1.9-22.2 0-.7.4-1.2 1.1-1.4l9.8-1.8c.6-.1 1.3.3 1.5.9.2.7 5.3 16.1 5.9 21.4.4 3.2-1.2 6-2.9 7.3-.5.4-1.3 1.2-1.5 1.4l-.1.1v.1l.8 3.7"/></svg> <span>Things to Do</span></a>
+                    </li>
+                    <li>
+                            <a href="/collections/cruises/" class="no-touch"><svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64"><path fill="#0276EE" d="M32 0C14.3 0 0 14.3 0 32s14.3 32 32 32 32-14.3 32-32S49.7 0 32 0m0 3c16 0 29 13 29 29 0 4.1-.9 8.1-2.4 11.6-2.7.2-4.1 1.7-5.1 2.9-1.1 1.1-1.8 2-3.6 2-.9 0-1.6-.4-2.2-.8.2-1.1.6-3.4 1.5-6.5 1.2-4.3 3.3-8.7 3.3-8.7.2-.3.2-.7 0-1.1-.2-.3-.4-.6-.8-.7l-2.9-.9-2.2-7.7c-.2-.6-.7-1-1.3-1h-.9l-.6-3.2c-.1-.6-.7-1.1-1.3-1.1h-6.8V13l-.5-1c-.1-.1-1.4-1.1-3.8-1.1s-3.6 1-3.8 1.1l-.5 1v3.8h-6.8c-.6 0-1.2.4-1.3 1.1l-.4 3.1h-.9c-.6 0-1.1.4-1.3 1l-2.2 7.7-2.9.9c-.4.1-.7.4-.8.8-.2.4-.1.8 0 1.1 0 0 2.3 4.4 3.3 8.8.7 3 1.2 5.2 1.5 6.4-.6.5-1.4.9-2.3.9-1.6 0-2.5-.8-3.5-2-.9-1-2-2.3-4.1-2.7C3.9 40.2 3 36.2 3 32 3 16 16 3 32 3m9.5 16.4l.3 1.6H21.3l.3-1.6h19.9zm-22.7 4.2h25.6l1.4 5.1L32 24.4c-.3-.1-.5-.1-.8 0l-13.8 4.4 1.4-5.2zm11.5 3.8v15.5c0 .7.6 1.3 1.3 1.3.7 0 1.3-.6 1.3-1.3V27.4l16.6 5.2c-.7 1.7-2 4.7-2.8 7.8-.6 2-1 3.8-1.3 5-1.1-1-2.4-1.9-4.7-1.9-3 0-4.5 1.7-5.6 2.9-1.1 1.1-1.8 2-3.6 2-1.6 0-2.4-.8-3.6-2-1.1-1.2-2.6-2.9-5.6-2.9-2.2 0-3.6.9-4.6 1.9-.3-1.2-.6-2.9-1.1-4.8-.8-3.1-2.1-6.2-2.8-7.9l16.5-5.3zm-4.9 17.3c.3.1.5.3.7.5-.2-.2-.5-.4-.7-.5m1 .7l.5.5.5.5-.5-.5-.5-.5m-19.9-.9c.3.1.5.3.8.4-.3-.2-.6-.3-.8-.4m-.8-.3s.1 0 0 0c.1 0 0 0 0 0m5.3 6.2c.6.2 1.4.4 2.2.4.9 0 1.6-.1 2.2-.4.4-.1.7-.3 1-.5-.3.2-.6.4-1 .5-.6.2-1.3.4-2.2.4-.9 0-1.6-.1-2.2-.4-.4-.1-.7-.3-1-.5.2.2.6.4 1 .5m18.4 0c.6.2 1.4.4 2.2.4.9 0 1.6-.1 2.2-.4.4-.1.7-.3 1-.5-.3.2-.6.4-1 .5-.6.2-1.3.4-2.2.4-.9 0-1.6-.1-2.2-.4-.4-.1-.7-.3-1-.5.2.2.6.4 1 .5m18.4 0c.6.2 1.3.4 2.2.4s1.6-.1 2.2-.4c.4-.1.7-.3 1-.5-.3.2-.7.4-1 .5-.6.2-1.4.4-2.2.4s-1.6-.1-2.2-.4c-.4-.1-.7-.3-1-.5.3.2.6.4 1 .5M32 61c-9.2 0-17.5-4.3-22.8-11.1.9.7 2.2 1.3 3.9 1.3 2.9 0 4.3-1.5 5.5-2.8l.1-.1c1.1-1.1 1.8-2 3.6-2 1.6 0 2.4.8 3.6 2 1.1 1.2 2.6 2.9 5.6 2.9 2.9 0 4.3-1.5 5.5-2.8l.1-.1c1.1-1.1 1.8-2 3.6-2 1.6 0 2.4.8 3.6 2l.1.1c1.2 1.3 2.7 2.8 5.5 2.8 3 0 4.5-1.7 5.6-2.9.3-.4.7-.7 1-1C51.5 55.5 42.4 61 32 61"/></svg> <span>Cruises</span></a>
+                    </li>
+                    <li>
+                            <a href="/collection/vacation/rentals/" class="no-touch"><svg enable-background="new 0 0 64 64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><path d="m32 3.02c15.98 0 28.98 13 28.98 28.98s-13 28.98-28.98 28.98-28.98-13-28.98-28.98 13-28.98 28.98-28.98m0-3.02c-17.67 0-32 14.33-32 32s14.33 32 32 32 32-14.33 32-32-14.33-32-32-32m18.36 30.3-5.76-5.76v-6.65c0-1.2-.97-2.18-2.18-2.18-1.2 0-2.18.97-2.18 2.18v2.3l-4.29-4.29c-2.12-2.12-5.81-2.12-7.92 0l-14.4 14.4c-.85.85-.85 2.23 0 3.08s2.23.85 3.08 0l14.4-14.4c.47-.47 1.3-.47 1.76 0l14.4 14.4c.43.43.98.64 1.54.64s1.12-.21 1.54-.64c.86-.85.86-2.23.01-3.08zm-17.6-7.19c-.42-.42-1.1-.42-1.51 0l-12.67 12.66c-.2.2-.31.47-.31.76v9.24c0 2.17 1.76 3.92 3.92 3.92h6.27v-11.71h7.08v11.71h6.27c2.17 0 3.92-1.76 3.92-3.92v-9.24c0-.28-.11-.56-.31-.76z" fill="#0276ee"/></svg> <span>Vacation Rentals</span></a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<section role="main">
+    <div class="fixed-container">
+        <h1 class="h2 headline-todays-deals">Latest Deals & News</h1>
+        <div id="collection">
+            
+
+
+<div class="deals-group col-row"><ul>        <li class="deal-module   ga-product "  data-ga-product-id="t2823751" data-ga-product-platform="0" data-ga-product-price="699" data-ga-product-name="London 4-Star Getaway incl. Flights" data-ga-product-category="Vacations/Deal" data-ga-product-brand="Fleetway Travel" data-ga-product-dealtype="External" data-ga-product-position="1" data-sid="2823751">
+            <a href="https://www.travelzoo.com/vacations/europe/-699-London-4-Star-Getaway-incl-Flights-2823751/" data-image="https://ssl.tzoo-img.com/images/tzoo.94150.0.919511.London_CP.jpg?v=2" title="$699 -- London 4-Star Getaway incl. Flights" >
+                <div class="deal-img">
+                    <div class="tzsg-img-container"><div class="tzsg-img-2-by-1"></div><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://ssl.tzoo-img.com/images/tzoo.94150.0.919511.London_CP.jpg?width={width}&v=2" alt="$699 -- London 4-Star Getaway incl. Flights" data-credits="" class="tzsg-lazy  fade-in" title="$699 -- London 4-Star Getaway incl. Flights" /></div>
+                </div>
+                <div class="deal-info">
+                        <h3 class="deal-price">
+                            $699
+                        </h3>
+                    <h3 class="deal-headline">
+                        <span title="">London 4-Star Getaway incl. Flights</span>
+                    </h3>
+                    <h6 class="deal-meta"><span>UNITED KINGDOM</span></h6>
+                    <p class="deal-lead">We hardly ever see discounts on notoriously expensive London, let alone a deal for less than $700.</p>
+                </div>
+            </a>
+        </li>
+        <li class="deal-module   ga-product "  data-ga-product-id="t2823798" data-ga-product-platform="0" data-ga-product-price="599" data-ga-product-name="All-Inclusive Beach Escape w/Air" data-ga-product-category="Vacations/Deal" data-ga-product-brand="Vacation Express" data-ga-product-dealtype="External" data-ga-product-position="2" data-sid="2823798">
+            <a href="https://www.travelzoo.com/vacations/caribbean/-599-up-All-Inclusive-Beach-Escape-w-Air-2823798/" data-image="https://ssl.tzoo-img.com/images/tzoo.10620.0.918370.marc-babin-491124-unsplashunsplash.jpg" title="$599 &amp; up -- All-Inclusive Beach Escape w/Air" >
+                <div class="deal-img">
+                    <div class="tzsg-img-container"><div class="tzsg-img-2-by-1"></div><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://ssl.tzoo-img.com/images/tzoo.10620.0.918370.marc-babin-491124-unsplashunsplash.jpg?width={width}" alt="$599 & up -- All-Inclusive Beach Escape w/Air" data-credits="" class="tzsg-lazy  fade-in" title="$599 & up -- All-Inclusive Beach Escape w/Air" /></div>
+                </div>
+                <div class="deal-info">
+                        <h3 class="deal-price">
+                            $599 &amp; up
+                        </h3>
+                    <h3 class="deal-headline">
+                        <span title="">All-Inclusive Beach Escape w/Air</span>
+                    </h3>
+                    <h6 class="deal-meta"><span>Antigua</span></h6>
+                    <p class="deal-lead">This is the best all-inclusive deal to Antigua we&#39;ve seen this year.</p>
+                </div>
+            </a>
+        </li>
+        <li class="deal-module deal-module--linkout  ga-product "  data-ga-product-id="t2820949" data-ga-product-platform="0" data-ga-product-price="6" data-ga-product-name="Restaurants, Activities &amp; More" data-ga-product-category="Other Activities/Deal" data-ga-product-brand="New York City Travelzoo Deals" data-ga-product-dealtype="External" data-ga-product-position="3" data-sid="2820949">
+            <a href="https://www.travelzoo.com/entertainment/new-york/-6-up-Restaurants-Activities-More-2820949/" data-image="https://ssl.tzoo-img.com/images/tzoo.90971.0.899124.NYC_iStock_000048083092.jpg" title="$6 &amp; up -- Restaurants, Activities &amp; More" target=&quot;_blank&quot;>
+                <div class="deal-img">
+                    <div class="tzsg-img-container"><div class="tzsg-img-2-by-1"></div><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://ssl.tzoo-img.com/images/tzoo.90971.0.899124.NYC_iStock_000048083092.jpg?width={width}" alt="$6 & up -- Restaurants, Activities & More" data-credits="" class="tzsg-lazy  fade-in" title="$6 & up -- Restaurants, Activities & More" /></div>
+                </div>
+                <div class="deal-info">
+                        <h3 class="deal-price">
+                            $6 &amp; up
+                        </h3>
+                    <h3 class="deal-headline">
+                        <span title="Go to New York City site">Restaurants, Activities &amp; More</span>
+                    </h3>
+                    <h6 class="deal-meta"><span>New York City</span></h6>
+                    <p class="deal-lead">Explore the city your way -- explore Central Park by bike, sail on a tall ship or catch a Broadway show.</p>
+                </div>
+            </a>
+        </li>
+        <li class="circle-module destination  ga-promotion"  data-ga-promotion-creative="Aruba" data-ga-promotion-position="4">
+            <a href="https://www.travelzoo.com/2813086/" title="Aruba">
+                <div class="circle-img">
+                    <div class="tzsg-img-container"><div class="tzsg-img-2-by-1"></div><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://ssl.tzoo-img.com/images/tzoo.13930.0.853691.Aruba_CP.jpg?width={width}" alt="Aruba" data-credits="" class="tzsg-lazy  fade-in" title="Aruba" /></div>
+                </div>
+                <div class="circle-info circle-primary">
+                    <h6 class="circle-header">Featured Destination</h6>
+                    <h3 class="circle-headline">Aruba</h3>
+                </div>
+            </a>
+        </li>
+        <li class="deal-module   ga-product "  data-ga-product-id="t2823151" data-ga-product-platform="0" data-ga-product-price="728" data-ga-product-name="Peru 6-Night Trip incl. Machu Picchu, Save $650" data-ga-product-category="Vacations/Deal" data-ga-product-brand="Journeyou.com" data-ga-product-dealtype="External" data-ga-product-position="5" data-sid="2823151">
+            <a href="https://www.travelzoo.com/vacations/south-america/-728-Peru-6-Night-Trip-incl-Machu-Picchu-Save-650-2823151/" data-image="https://ssl.tzoo-img.com/images/tzoo.80406.0.919641.Machu-Picchu-Peru-iStock-513491364.jpg?v=2" title="$728 -- Peru 6-Night Trip incl. Machu Picchu, Save $650" >
+                <div class="deal-img">
+                    <div class="tzsg-img-container"><div class="tzsg-img-2-by-1"></div><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://ssl.tzoo-img.com/images/tzoo.80406.0.919641.Machu-Picchu-Peru-iStock-513491364.jpg?width={width}&v=2" alt="$728 -- Peru 6-Night Trip incl. Machu Picchu, Save $650" data-credits="" class="tzsg-lazy  fade-in" title="$728 -- Peru 6-Night Trip incl. Machu Picchu, Save $650" /></div>
+                </div>
+                <div class="deal-info">
+                        <h3 class="deal-price">
+                            $728
+                        </h3>
+                    <h3 class="deal-headline">
+                        <span title="">Peru 6-Night Trip incl. Machu Picchu, Save $650</span>
+                    </h3>
+                    <h6 class="deal-meta"><span>Lima, Cusco, Machu Pichu</span></h6>
+                    <p class="deal-lead">This immersive Peru trip includes hotels, transfers and guides to bucket-list destinations like the Citadel and Aguas Calientes.</p>
+                </div>
+            </a>
+        </li>
+        <li class="circle-module destination  ga-promotion"  data-ga-promotion-creative="Fall for the South" data-ga-promotion-position="6">
+            <a href="https://www.travelzoo.com/collection/south/" title="Fall for the South">
+                <div class="circle-img">
+                    <div class="tzsg-img-container"><div class="tzsg-img-2-by-1"></div><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://ssl.tzoo-img.com/images/tzoo.1.0.873081.iStock-521051123.jpg?width={width}" alt="Fall for the South" data-credits="" class="tzsg-lazy  fade-in" title="Fall for the South" /></div>
+                </div>
+                <div class="circle-info circle-primary">
+                    <h6 class="circle-header">Spotlight on</h6>
+                    <h3 class="circle-headline">Fall for the South</h3>
+                </div>
+            </a>
+        </li>
+        <li class="circle-module blog  ga-promotion"  data-ga-promotion-creative="Turn 225 Miles into a Grand Arizona Adventure" data-ga-promotion-position="7">
+            <a href="https://www.travelzoo.com/blog/grand-arizona-adventure/" title="">
+                <div class="circle-img">
+                    <div class="tzsg-img-container"><div class="tzsg-img-2-by-1"></div><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://ssl.tzoo-img.com/images/tzoo.17016.0.917317.MarbleCanyon-Arizona-iStock-682710408.jpg?width={width}" alt="" data-credits="" class="tzsg-lazy  fade-in" title="" /></div>
+                </div>
+                <div class="circle-info circle-secondary">
+                    <h6 class="circle-header">From the Blog</h6>
+                    <h3 class="circle-headline">Turn 225 Miles into a Grand Arizona Adventure</h3>
+                    <h6 class="circle-footer"></h6>
+                </div>
+            </a>
+        </li>
+        <li class="circle-module destination  ga-promotion"  data-ga-promotion-creative="Vacation Rentals" data-ga-promotion-position="8">
+            <a href="https://www.travelzoo.com/collection/vacation/rentals/" title="Vacation Rentals">
+                <div class="circle-img">
+                    <div class="tzsg-img-container"><div class="tzsg-img-2-by-1"></div><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://ssl.tzoo-img.com/images/tzoo.102032.0.904546.BestRateVillas-SanDiego-CP.jpg?width={width}" alt="Vacation Rentals" data-credits="" class="tzsg-lazy  fade-in" title="Vacation Rentals" /></div>
+                </div>
+                <div class="circle-info circle-primary">
+                    <h6 class="circle-header">Spotlight on</h6>
+                    <h3 class="circle-headline">Vacation Rentals</h3>
+                </div>
+            </a>
+        </li>
+        <li class="deal-module   ga-product "  data-ga-product-id="h60" data-ga-product-platform="2" data-ga-product-price="105" data-ga-product-name="Wyndham Garden Chinatown" data-ga-product-category="Hotels/Deal" data-ga-product-brand="Wyndham Garden Chinatown" data-ga-product-dealtype="Booking" data-ga-product-position="9" data-sid="2823469">
+            <a href="https://www.travelzoo.com/hotels/new-york/-105-NYC-4-Star-Wyndham-w-Drinks-40-Off-2823469/" data-image="https://ssl.tzoo-img.com/images/tzoo.51063.60.919761.NYC-iStock-531400043.jpg" title="$105 -- NYC: 4-Star Wyndham w/Drinks, 40% Off" >
+                <div class="deal-img">
+                    <div class="tzsg-img-container"><div class="tzsg-img-2-by-1"></div><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://ssl.tzoo-img.com/images/tzoo.51063.60.919761.NYC-iStock-531400043.jpg?width={width}" alt="$105 -- NYC: 4-Star Wyndham w/Drinks, 40% Off" data-credits="" class="tzsg-lazy  fade-in" title="$105 -- NYC: 4-Star Wyndham w/Drinks, 40% Off" /></div>
+                </div>
+                <div class="deal-info">
+                        <h3 class="deal-price">
+                            $105
+                        </h3>
+                    <h3 class="deal-headline">
+                        <span title="">NYC: 4-Star Wyndham w/Drinks, 40% Off</span>
+                    </h3>
+                    <h6 class="deal-meta"><span>New York</span></h6>
+                    <p class="deal-lead">Guests are in a great location for visits to famous New York cocktail bars at night — followed by revitalizing dim sum in the morning.</p>
+                </div>
+            </a>
+        </li>
+        <li class="deal-module   ga-product "  data-ga-product-id="t2823827" data-ga-product-platform="0" data-ga-product-price="1199" data-ga-product-name="National Parks Summer Tour incl. Yellowstone" data-ga-product-category="Vacations/Deal" data-ga-product-brand="Gate 1 Travel" data-ga-product-dealtype="External" data-ga-product-position="10" data-sid="2823827">
+            <a href="https://www.travelzoo.com/vacations/north-america/-1199-National-Parks-Summer-Tour-incl-Yellowstone-2823827/" data-image="https://ssl.tzoo-img.com/images/tzoo.10109.0.919727.Yellowstone-GettyImages-rf--597660045.jpg" title="$1199 -- National Parks Summer Tour incl. Yellowstone" >
+                <div class="deal-img">
+                    <div class="tzsg-img-container"><div class="tzsg-img-2-by-1"></div><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://ssl.tzoo-img.com/images/tzoo.10109.0.919727.Yellowstone-GettyImages-rf--597660045.jpg?width={width}" alt="$1199 -- National Parks Summer Tour incl. Yellowstone" data-credits="" class="tzsg-lazy  fade-in" title="$1199 -- National Parks Summer Tour incl. Yellowstone" /></div>
+                </div>
+                <div class="deal-info">
+                        <h3 class="deal-price">
+                            $1199
+                        </h3>
+                    <h3 class="deal-headline">
+                        <span title="">National Parks Summer Tour incl. Yellowstone</span>
+                    </h3>
+                    <h6 class="deal-meta"><span>MT. RUSHMORE; YELLOWSTONE; GRAND TETON</span></h6>
+                    <p class="deal-lead">Travel to Mt. Rushmore, Yellowstone and Grand Teton National Parks this summer.</p>
+                </div>
+            </a>
+        </li>
+        <li class="deal-module   ga-product "  data-ga-product-id="t2823781" data-ga-product-platform="0" data-ga-product-price="1299" data-ga-product-name="Portugal: 5-City Guided Tour incl. Flights" data-ga-product-category="Vacations/Deal" data-ga-product-brand="Escapes by Globus" data-ga-product-dealtype="External" data-ga-product-position="11" data-sid="2823781">
+            <a href="https://www.travelzoo.com/vacations/europe/-1299-Portugal-5-City-Guided-Tour-incl-Flights-2823781/" data-image="https://ssl.tzoo-img.com/images/tzoo.10110.0.918154.porto-iStock-1046209200.jpg" title="$1299 -- Portugal: 5-City Guided Tour incl. Flights" >
+                <div class="deal-img">
+                    <div class="tzsg-img-container"><div class="tzsg-img-2-by-1"></div><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://ssl.tzoo-img.com/images/tzoo.10110.0.918154.porto-iStock-1046209200.jpg?width={width}" alt="$1299 -- Portugal: 5-City Guided Tour incl. Flights" data-credits="" class="tzsg-lazy  fade-in" title="$1299 -- Portugal: 5-City Guided Tour incl. Flights" /></div>
+                </div>
+                <div class="deal-info">
+                        <h3 class="deal-price">
+                            $1299
+                        </h3>
+                    <h3 class="deal-headline">
+                        <span title="">Portugal: 5-City Guided Tour incl. Flights</span>
+                    </h3>
+                    <h6 class="deal-meta"><span>Lisbon; Tomar; Porto; Viseu; Evora</span></h6>
+                    <p class="deal-lead">Save $550 on this 8-night trip that&#39;s chock-full of wine, tapas and Portugal&#39;s must-see sites.</p>
+                </div>
+            </a>
+        </li>
+        <li class="deal-module   ga-product "  data-ga-product-id="t2823800" data-ga-product-platform="0" data-ga-product-price="1399" data-ga-product-name="Sailing thru SE Asia w/$1600 Credit" data-ga-product-category="Cruises/Deal" data-ga-product-brand="Star Clippers" data-ga-product-dealtype="External" data-ga-product-position="12" data-sid="2823800">
+            <a href="https://www.travelzoo.com/cruises/more/-1399-up-Sailing-thru-SE-Asia-w-1600-Credit-2823800/" data-image="https://ssl.tzoo-img.com/images/tzoo.12102.0.883288.Phuket-Thailand-iStock-925304206.jpg" title="$1399 &amp; up -- Sailing thru SE Asia w/$1600 Credit" >
+                <div class="deal-img">
+                    <div class="tzsg-img-container"><div class="tzsg-img-2-by-1"></div><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://ssl.tzoo-img.com/images/tzoo.12102.0.883288.Phuket-Thailand-iStock-925304206.jpg?width={width}" alt="$1399 & up -- Sailing thru SE Asia w/$1600 Credit" data-credits="" class="tzsg-lazy  fade-in" title="$1399 & up -- Sailing thru SE Asia w/$1600 Credit" /></div>
+                </div>
+                <div class="deal-info">
+                        <h3 class="deal-price">
+                            $1399 &amp; up
+                        </h3>
+                    <h3 class="deal-headline">
+                        <span title="">Sailing thru SE Asia w/$1600 Credit</span>
+                    </h3>
+                    <h6 class="deal-meta"><span>Southeast Asia</span></h6>
+                    <p class="deal-lead">Save 65% on this bucket-list cruise that visits Thailand, Malaysia, Cambodia and more.</p>
+                </div>
+            </a>
+        </li>
+</ul></div><div class="deals-group col-row"><ul>        <li class="deal-module   ga-product "  data-ga-product-id="t2823118" data-ga-product-platform="0" data-ga-product-price="99119" data-ga-product-name="Hilton Head 4-Star Beach Resort" data-ga-product-category="Hotels/Deal" data-ga-product-brand="The Westin Hilton Head Island Resort &amp; Spa" data-ga-product-dealtype="External" data-ga-product-position="13" data-sid="2823118">
+            <a href="https://www.travelzoo.com/hotels/atlanta/-99-119-Hilton-Head-4-Star-Beach-Resort-2823118/" data-image="https://ssl.tzoo-img.com/images/tzoo.12506.0.521558.WestinResortHiltonHeadIsland.jpg" title="$99-$119 -- Hilton Head 4-Star Beach Resort" >
+                <div class="deal-img">
+                    <div class="tzsg-img-container"><div class="tzsg-img-2-by-1"></div><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://ssl.tzoo-img.com/images/tzoo.12506.0.521558.WestinResortHiltonHeadIsland.jpg?width={width}" alt="$99-$119 -- Hilton Head 4-Star Beach Resort" data-credits="" class="tzsg-lazy  fade-in" title="$99-$119 -- Hilton Head 4-Star Beach Resort" /></div>
+                </div>
+                <div class="deal-info">
+                        <h3 class="deal-price">
+                            $99-$119
+                        </h3>
+                    <h3 class="deal-headline">
+                        <span title="">Hilton Head 4-Star Beach Resort</span>
+                    </h3>
+                    <h6 class="deal-meta"><span>Hilton Head Island</span></h6>
+                    <p class="deal-lead">All rooms at this upscale beachfront resort have private balconies and sleep up to four guests.</p>
+                </div>
+            </a>
+        </li>
+        <li class="deal-module   ga-product "  data-ga-product-id="t2823803" data-ga-product-platform="0" data-ga-product-price="1899" data-ga-product-name="Med Cruises: Balcony, $1050 in Perks" data-ga-product-category="Cruises/Deal" data-ga-product-brand="Celebrity Cruises via Online Vacation Center" data-ga-product-dealtype="External" data-ga-product-position="14" data-sid="2823803">
+            <a href="https://www.travelzoo.com/cruises/europe/-1899-Med-Cruises-Balcony-1050-in-Perks-2823803/" data-image="https://ssl.tzoo-img.com/images/tzoo.11493.0.919780.Mallorca-Spain-GettyImages-RF-116379158.jpg" title="$1899 -- Med Cruises: Balcony, $1050 in Perks" >
+                <div class="deal-img">
+                    <div class="tzsg-img-container"><div class="tzsg-img-2-by-1"></div><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://ssl.tzoo-img.com/images/tzoo.11493.0.919780.Mallorca-Spain-GettyImages-RF-116379158.jpg?width={width}" alt="$1899 -- Med Cruises: Balcony, $1050 in Perks" data-credits="" class="tzsg-lazy  fade-in" title="$1899 -- Med Cruises: Balcony, $1050 in Perks" /></div>
+                </div>
+                <div class="deal-info">
+                        <h3 class="deal-price">
+                            $1899
+                        </h3>
+                    <h3 class="deal-headline">
+                        <span title="">Med Cruises: Balcony, $1050 in Perks</span>
+                    </h3>
+                    <h6 class="deal-meta"><span>Europe</span></h6>
+                    <p class="deal-lead">Soak up sun-kissed beaches and ancient cities this summer in Italy, Greece, Croatia, Malta and more.</p>
+                </div>
+            </a>
+        </li>
+        <li class="deal-module   ga-product "  data-ga-product-id="h1258" data-ga-product-platform="2" data-ga-product-price="99" data-ga-product-name="The Westin Michigan Avenue" data-ga-product-category="Hotels/Deal" data-ga-product-brand="The Westin Michigan Avenue" data-ga-product-dealtype="Booking" data-ga-product-position="15" data-sid="2823779">
+            <a href="https://www.travelzoo.com/hotels/chicago/-99-Explore-Chicago-Mag-Mile-4-Star-Westin-2823779/" data-image="https://ssl.tzoo-img.com/images/tzoo.11684.0.919740.Chicago-IL-iStock-1139081279.jpg" title="$99 -- Explore Chicago: Mag Mile 4-Star Westin" >
+                <div class="deal-img">
+                    <div class="tzsg-img-container"><div class="tzsg-img-2-by-1"></div><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://ssl.tzoo-img.com/images/tzoo.11684.0.919740.Chicago-IL-iStock-1139081279.jpg?width={width}" alt="$99 -- Explore Chicago: Mag Mile 4-Star Westin" data-credits="" class="tzsg-lazy  fade-in" title="$99 -- Explore Chicago: Mag Mile 4-Star Westin" /></div>
+                </div>
+                <div class="deal-info">
+                        <h3 class="deal-price">
+                            $99
+                        </h3>
+                    <h3 class="deal-headline">
+                        <span title="">Explore Chicago: Mag Mile 4-Star Westin</span>
+                    </h3>
+                    <h6 class="deal-meta"><span>Chicago</span></h6>
+                    <p class="deal-lead">At the heart of Michigan Avenue, this 4-star Westin is perfectly situated for holiday shopping or winter visits.</p>
+                </div>
+            </a>
+        </li>
+        <li class="circle-module destination  ga-promotion"  data-ga-promotion-creative="Las Vegas Entertainment" data-ga-promotion-position="16">
+            <a href="https://www.travelzoo.com/collection/entertainment/las-vegas/" title="Las Vegas Entertainment">
+                <div class="circle-img">
+                    <div class="tzsg-img-container"><div class="tzsg-img-2-by-1"></div><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://ssl.tzoo-img.com/images/tzoo.1.0.384378.LasVegas_Alamy_DDFFHW.jpg?width={width}" alt="Las Vegas Entertainment" data-credits="" class="tzsg-lazy  fade-in" title="Las Vegas Entertainment" /></div>
+                </div>
+                <div class="circle-info circle-primary">
+                    <h6 class="circle-header">Spotlight on</h6>
+                    <h3 class="circle-headline">Las Vegas Entertainment</h3>
+                </div>
+            </a>
+        </li>
+        <li class="deal-module   ga-product "  data-ga-product-id="t2823828" data-ga-product-platform="0" data-ga-product-price="999" data-ga-product-name="Southern Italy Vacation incl. Island Stay &amp; Flights" data-ga-product-category="Vacations/Deal" data-ga-product-brand="Jetline Holidays" data-ga-product-dealtype="External" data-ga-product-position="17" data-sid="2823828">
+            <a href="https://www.travelzoo.com/vacations/europe/-999-Southern-Italy-Vacation-incl-Island-Stay-Flights-2823828/" data-image="https://ssl.tzoo-img.com/images/tzoo.101909.0.918668.Ischia_iStock-1160733719.jpg" title="$999 -- Southern Italy Vacation incl. Island Stay &amp; Flights" >
+                <div class="deal-img">
+                    <div class="tzsg-img-container"><div class="tzsg-img-2-by-1"></div><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://ssl.tzoo-img.com/images/tzoo.101909.0.918668.Ischia_iStock-1160733719.jpg?width={width}" alt="$999 -- Southern Italy Vacation incl. Island Stay & Flights" data-credits="" class="tzsg-lazy  fade-in" title="$999 -- Southern Italy Vacation incl. Island Stay & Flights" /></div>
+                </div>
+                <div class="deal-info">
+                        <h3 class="deal-price">
+                            $999
+                        </h3>
+                    <h3 class="deal-headline">
+                        <span title="">Southern Italy Vacation incl. Island Stay &amp; Flights</span>
+                    </h3>
+                    <h6 class="deal-meta"><span>Ischia; Sorrento Coast</span></h6>
+                    <p class="deal-lead">With spring and fall dates available, this is the prime time to spend a week on Italy&#39;s coast.</p>
+                </div>
+            </a>
+        </li>
+        <li class="circle-module blog  ga-promotion"  data-ga-promotion-creative="Eat, Drink, Love: Your New Marching Orders for Visiting Virginia " data-ga-promotion-position="18">
+            <a href="https://www.travelzoo.com/blog/eat-drink-love-your-new-marching-orders-for-visiting-virginia/" title="">
+                <div class="circle-img">
+                    <div class="tzsg-img-container"><div class="tzsg-img-2-by-1"></div><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://ssl.tzoo-img.com/images/tzoo.20062.0.904593.VirginiaSponsoredStory_CP.jpg?width={width}" alt="" data-credits="" class="tzsg-lazy  fade-in" title="" /></div>
+                </div>
+                <div class="circle-info circle-secondary">
+                    <h6 class="circle-header">From the Blog</h6>
+                    <h3 class="circle-headline">Eat, Drink, Love: Your New Marching Orders for Visiting Virginia </h3>
+                    <h6 class="circle-footer"></h6>
+                </div>
+            </a>
+        </li>
+        <li class="circle-module blog  ga-promotion"  data-ga-promotion-creative="The Most Surprising (and Fun) Ways to Go Local on the Road" data-ga-promotion-position="19">
+            <a href="https://www.travelzoo.com/blog/the-most-surprising-and-fun-ways-to-go-local-on-the-road/" title="">
+                <div class="circle-img">
+                    <div class="tzsg-img-container"><div class="tzsg-img-2-by-1"></div><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://ssl.tzoo-img.com/images/tzoo.10389.0.915308.Couple-iStock-613034904.jpg?width={width}" alt="" data-credits="" class="tzsg-lazy  fade-in" title="" /></div>
+                </div>
+                <div class="circle-info circle-secondary">
+                    <h6 class="circle-header">From the Blog</h6>
+                    <h3 class="circle-headline">The Most Surprising (and Fun) Ways to Go Local on the Road</h3>
+                    <h6 class="circle-footer"></h6>
+                </div>
+            </a>
+        </li>
+        <li class="deal-module   ga-product "  data-ga-product-id="t2820822" data-ga-product-platform="0" data-ga-product-price="899" data-ga-product-name="India&#39;s Golden Triangle Tour w/Air" data-ga-product-category="Vacations/Deal" data-ga-product-brand="Gate 1 Travel" data-ga-product-dealtype="External" data-ga-product-position="20" data-sid="2820822">
+            <a href="https://www.travelzoo.com/vacations/escorted/-899-India-s-Golden-Triangle-Tour-w-Air-2820822/" data-image="https://ssl.tzoo-img.com/images/tzoo.10109.0.904462.Jaipur-India-iStock-1065764600.jpg" title="$899 -- India&#39;s Golden Triangle Tour w/Air" >
+                <div class="deal-img">
+                    <div class="tzsg-img-container"><div class="tzsg-img-2-by-1"></div><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://ssl.tzoo-img.com/images/tzoo.10109.0.904462.Jaipur-India-iStock-1065764600.jpg?width={width}" alt="$899 -- India's Golden Triangle Tour w/Air" data-credits="" class="tzsg-lazy  fade-in" title="$899 -- India's Golden Triangle Tour w/Air" /></div>
+                </div>
+                <div class="deal-info">
+                        <h3 class="deal-price">
+                            $899
+                        </h3>
+                    <h3 class="deal-headline">
+                        <span title="">India&#39;s Golden Triangle Tour w/Air</span>
+                    </h3>
+                    <h6 class="deal-meta"><span>New Delhi, Jaipur, Agra</span></h6>
+                    <p class="deal-lead">It&#39;s been nearly two years since we&#39;ve seen a price this hot for a classic tour of India.</p>
+                </div>
+            </a>
+        </li>
+        <li class="deal-module   ga-product "  data-ga-product-id="t2820794" data-ga-product-platform="0" data-ga-product-price="1199" data-ga-product-name="Moscow &amp; St. Petersburg Trip" data-ga-product-category="Vacations/Deal" data-ga-product-brand="Exoticca" data-ga-product-dealtype="External" data-ga-product-position="21" data-sid="2820794">
+            <a href="https://www.travelzoo.com/vacations/europe/-1199-Moscow-St-Petersburg-Trip-2820794/" data-image="https://ssl.tzoo-img.com/images/tzoo.99658.0.916795.kremlin_moscow_russia_iStock-941782088.jpg" title="$1199 -- Moscow &amp; St. Petersburg Trip" >
+                <div class="deal-img">
+                    <div class="tzsg-img-container"><div class="tzsg-img-2-by-1"></div><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://ssl.tzoo-img.com/images/tzoo.99658.0.916795.kremlin_moscow_russia_iStock-941782088.jpg?width={width}" alt="$1199 -- Moscow & St. Petersburg Trip" data-credits="" class="tzsg-lazy  fade-in" title="$1199 -- Moscow & St. Petersburg Trip" /></div>
+                </div>
+                <div class="deal-info">
+                        <h3 class="deal-price">
+                            $1199
+                        </h3>
+                    <h3 class="deal-headline">
+                        <span title="">Moscow &amp; St. Petersburg Trip</span>
+                    </h3>
+                    <h6 class="deal-meta"><span>Russia</span></h6>
+                    <p class="deal-lead">All logistics are handled, making it easy to see top sites and travel between cities.</p>
+                </div>
+            </a>
+        </li>
+        <li class="deal-module   ga-product "  data-ga-product-id="t2820562" data-ga-product-platform="0" data-ga-product-price="1148" data-ga-product-name="Tahiti 5-Star Beach Escape incl. Airfare" data-ga-product-category="Vacations/Deal" data-ga-product-brand="Air Tahiti Nui" data-ga-product-dealtype="External" data-ga-product-position="22" data-sid="2820562">
+            <a href="https://www.travelzoo.com/vacations/asia/-1148-Tahiti-5-Star-Beach-Escape-incl-Airfare-2820562/" data-image="https://ssl.tzoo-img.com/images/tzoo.10648.0.916392.TahitiLaOraBeachResort-cp.jpg" title="$1148 -- Tahiti 5-Star Beach Escape incl. Airfare" >
+                <div class="deal-img">
+                    <div class="tzsg-img-container"><div class="tzsg-img-2-by-1"></div><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://ssl.tzoo-img.com/images/tzoo.10648.0.916392.TahitiLaOraBeachResort-cp.jpg?width={width}" alt="$1148 -- Tahiti 5-Star Beach Escape incl. Airfare" data-credits="" class="tzsg-lazy  fade-in" title="$1148 -- Tahiti 5-Star Beach Escape incl. Airfare" /></div>
+                </div>
+                <div class="deal-info">
+                        <h3 class="deal-price">
+                            $1148
+                        </h3>
+                    <h3 class="deal-headline">
+                        <span title="">Tahiti 5-Star Beach Escape incl. Airfare</span>
+                    </h3>
+                    <h6 class="deal-meta"><span>Papeete</span></h6>
+                    <p class="deal-lead">This amazing deal gets you to 5-star Tahitian luxury for a warm Valentine&#39;s.</p>
+                </div>
+            </a>
+        </li>
+        <li class="deal-module   ga-product "  data-ga-product-id="t2820837" data-ga-product-platform="0" data-ga-product-price="1499" data-ga-product-name="Israel: Guided 3-City Tour incl. Flights" data-ga-product-category="Vacations/Deal" data-ga-product-brand="Fleetway Travel" data-ga-product-dealtype="External" data-ga-product-position="23" data-sid="2820837">
+            <a href="https://www.travelzoo.com/vacations/escorted/-1499-Israel-Guided-3-City-Tour-incl-Flights-2820837/" data-image="https://ssl.tzoo-img.com/images/tzoo.94150.0.915829.DomeRockMosqueTmepleMount_Jerusalem_shutterstock_357859082.jpg" title="$1499 -- Israel: Guided 3-City Tour incl. Flights" >
+                <div class="deal-img">
+                    <div class="tzsg-img-container"><div class="tzsg-img-2-by-1"></div><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://ssl.tzoo-img.com/images/tzoo.94150.0.915829.DomeRockMosqueTmepleMount_Jerusalem_shutterstock_357859082.jpg?width={width}" alt="$1499 -- Israel: Guided 3-City Tour incl. Flights" data-credits="" class="tzsg-lazy  fade-in" title="$1499 -- Israel: Guided 3-City Tour incl. Flights" /></div>
+                </div>
+                <div class="deal-info">
+                        <h3 class="deal-price">
+                            $1499
+                        </h3>
+                    <h3 class="deal-headline">
+                        <span title="">Israel: Guided 3-City Tour incl. Flights</span>
+                    </h3>
+                    <h6 class="deal-meta"><span>Tel Aviv, Tiberias &amp; Jerusalem</span></h6>
+                    <p class="deal-lead">Hit the highlights in Israel without spending a fortune: this 6-night trip visits Tel Aviv, the Galilee region and Jerusalem for $1499 per person.</p>
+                </div>
+            </a>
+        </li>
+        <li class="deal-module   ga-product "  data-ga-product-id="t2820804" data-ga-product-platform="0" data-ga-product-price="1599" data-ga-product-name="Alaska Land &amp; Sea Tour w/Flights" data-ga-product-category="Cruises/Deal" data-ga-product-brand="Holland America Line via Prestige Cruises" data-ga-product-dealtype="External" data-ga-product-position="24" data-sid="2820804">
+            <a href="https://www.travelzoo.com/cruises/alaska/-1599-Alaska-Land-Sea-Tour-w-Flights-2820804/" data-image="https://ssl.tzoo-img.com/images/tzoo.13779.0.671540.HollandAmericanLine_Westerdam-Alaska-01.jpg?v=2" title="$1599 -- Alaska Land &amp; Sea Tour w/Flights" >
+                <div class="deal-img">
+                    <div class="tzsg-img-container"><div class="tzsg-img-2-by-1"></div><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://ssl.tzoo-img.com/images/tzoo.13779.0.671540.HollandAmericanLine_Westerdam-Alaska-01.jpg?width={width}&v=2" alt="$1599 -- Alaska Land & Sea Tour w/Flights" data-credits="" class="tzsg-lazy  fade-in" title="$1599 -- Alaska Land & Sea Tour w/Flights" /></div>
+                </div>
+                <div class="deal-info">
+                        <h3 class="deal-price">
+                            $1599
+                        </h3>
+                    <h3 class="deal-headline">
+                        <span title="">Alaska Land &amp; Sea Tour w/Flights</span>
+                    </h3>
+                    <h6 class="deal-meta"><span>Alaska</span></h6>
+                    <p class="deal-lead">With over $1900 in perks, this Alaska adventure tours Denali, fjords, glaciers and mountains.</p>
+                </div>
+            </a>
+        </li>
+</ul></div>
+
+
+        </div>
+    </div>
+</section>
+
+
+
+
+    <footer role="contentinfo" class="global-footer nocontent push">
+        <div class="reset-location-footer">
+            <div class="update-location" role="button">Set My Location</div>
+        </div>
+      <div class="footer-content">
+            <span id="extole-zone-global_footer"></span>
+        <div class="main-container">
+            <div class="site-edition">
+              <a role="button" class="site-edition-toggle"><i class="flag-us-sm"></i> U.S. Edition</a>
+            </div>
+                      <div class="mobile-app">
+              <a id="lnkMobileApp" href="#" class="mobile-app-link" target="_blank">
+                <i class="icon-tzoo-app"></i>
+                <span>Get the Mobile App</span>
+              </a>
+            </div>
+                      <div class="social">
+              <ul> 
+ <li><a href="https://www.facebook.com/travelzoo" class="icon-facebook-circle" target="_blank" title="Travelzoo on Facebook">Facebook</a></li> 
+ <li><a href="https://twitter.com/Travelzoo" class="icon-twitter-circle" target="_blank" title="Travelzoo on Twitter">Twitter</a></li> 
+ <li><a href="https://www.youtube.com/user/travelzoo" class="icon-youtube-circle" target="_blank" title="Travelzoo on Youtube">YouTube</a></li> 
+ <li><a href="https://www.instagram.com/travelzoo/" class="icon-instagram-circle" target="_blank" title="Travelzoo on Instagram">Instagram</a></li> 
+ <li><a href="https://www.pinterest.com/travelzoo" class="icon-pinterest-circle" target="_blank" title="Travelzoo on Pinterest">Pinterest</a></li> 
+ </ul>
+            </div>
+                      <div class="legal">
+               
+<ul> 
+<li><a href="/about/">About us</a></li> 
+<li><a href="/jobs/">Careers</a></li> 
+<li><a href="http://ir.travelzoo.com">Investor Relations</a></li> 
+<li><a href="/help-faq/">Help</a></li> 
+<li><a href="/privacy/">Privacy</a></li> 
+<li><a href="/terms-and-conditions/">Terms & Conditions</a></li> 
+<li><a href="/sitemap/">Site Map</a></li> 
+<li><a href="/sitemap/hotels/">Hotels</a></li> 
+<li><a href="/blog/">Stories</a></li> 
+<li><a href="/feed/">News Feed</a></li> 
+<li><a href="http://press.travelzoo.com/">Press</a></li> 
+<li><a href="/web-accessibility/">Accessibility</a></li> 
+</ul> 
+
+              <span class="copyright">&copy; 2019 Travelzoo - All rights reserved</span>
+            </div>
+        </div>
+      </div>
+    </footer>
+
+    <div class="nocontent">
+        <script src="https://ssl.tzoo-img.com/BundleHandler.ashx?f=%2fres%2fvendor%2fjquery%2fjquery-3.2.1.min.js%2c%2fres%2fvendor%2fjquery-ui%2fjquery-ui.min.js%2c%2fres%2fvendor%2fmodernizr-custom.min.js%2c%2fres%2fvendor%2fspin.js%2c%2fres%2fvendor%2fspin.ext.js%2c%2fres%2fvendor%2fjs.cookie.js%2c%2fres%2fvendor%2fjquery.fittext.js%2c%2fres%2fvendor%2fpurl.min.js%2c%2fres%2fjs%2fcommon.js%2c%2fres%2fjs%2flayout.js%2c%2fres%2fjs%2fimage-loader.js%2c%2fres%2fjs%2ffocusMove.js%2c%2fres%2fjs%2fsite-search-history.js%2c%2fres%2fjs%2fsite-search.js%2c%2fres%2fjs%2fsignup.js%2c%2fres%2fjs%2foverlay-manager.js%2c%2fres%2fjs%2futility.js%2c%2fres%2fjs%2flocation-detection.js%2c%2fres%2fjs%2fcontrols.js%2c%2fres%2fjs%2ftooltip.js%2c%2fres%2fvendor%2fjs-storage%2fjs.storage.js%2c%2fres%2fjs%2fclient-cache-versioning.js%2c%2fstatic%2fjs%2fgtmhelper.js%2c%2fres%2fjs%2fcalendar%2ftzsgDatepicker.js%2c%2fres%2fjs%2fcalendar%2fdatepicker.inline-extension.js%2c%2fres%2fjs%2fdeal%2fpagingStorage.js%2c%2fres%2fjs%2foptimizely.js%2c%2fres%2fvendor%2fsmartbanner%2fjquery.smartbanner.js%2c%2fres%2fvendor%2fsmartbanner%2fbrowser-deeplink.js%2c%2fres%2fjs%2fgen%2fexternal.js&v=XE4JPU-" type="text/javascript"></script>    <div id="search-form-overlay" class="noprint fullscreen-overlay ui-front" style="display: none;">
+        <div>
+            <div class="close-button-container">
+                <button id="close-button-2" class="fullscreen-overlay-close" type="button">Close</button>
+            </div>
+            <div class="fixed-container">
+                <div class="col-row">
+                    <form class="search-form ada-auto-proxy ada-auto-ignore" id="overlay-search-form" action="">
+                        <div>
+                            <div class="search-heading-container">
+                                <h3 class="resultheadline">Show me:</h3>
+                            </div>
+                            <div class="search-fields">
+                                <div class="what-field-container clear-in-field">
+                                    <label class="sr-only" for="what-field-2">What type of deals?</label>
+                                    <input id="what-field-2" class="input-clear js-input-clear" type="text" placeholder="e.g. Hotels, beach, Disney" value="All Deals" autocomplete="off" />
+                                    <input id="what-field-value-2" type="hidden" value="0" data-name="All Deals" data-searchtype="0" />
+                                    <button type="button" class="button-clear js-button-clear" tabindex="-1">x</button>
+                                </div>
+                                <div class="where-field-container js-location-autocomplete clear-in-field" data-query-type="exapt">
+                                    <label class="sr-only" for="where-field-2">Where?</label>
+                                    <input id="where-field-2" class="input-clear js-input-clear" type="text" placeholder="Anywhere..." autocomplete="off" />
+                                    <input id="where-field-value-2" type="hidden" />
+                                    <button type="button" class="button-clear js-button-clear" tabindex="-1">x</button>
+                                </div>
+                                <div class="where-from-field-container js-location-autocomplete clear-in-field" data-query-type="apt">
+                                    <label class="sr-only" for="where-from-field-2">Where from?</label>
+                                    <input id="where-from-field-2" class="input-clear js-input-clear" type="text" placeholder="From..." autocomplete="off" data-suppress-default-locations="true" />
+                                    <input id="where-from-field-value-2" type="hidden" />
+                                    <button type="button" class="button-clear js-button-clear" tabindex="-1">x</button>
+                                </div>
+                                <div class="where-to-field-container js-location-autocomplete clear-in-field" data-query-type="apt">
+                                    <label class="sr-only" for="where-to-field-2">Where to?</label>
+                                    <input id="where-to-field-2" class="input-clear js-input-clear" type="text" placeholder="To..." autocomplete="off" />
+                                    <input id="where-to-field-value-2" type="hidden" />
+                                    <button type="button" class="button-clear js-button-clear" tabindex="-1">x</button>
+                                </div>
+                                <div class="when-field-container">
+                                    <label class="sr-only" for="when-field-2">When?</label>
+                                    <input id="when-field-2" type="text" placeholder="Anytime..." autocomplete="off" value="All Dates" readonly />
+                                    <input id="when-field-value-2" type="hidden" value="Anytime" />
+                                    <input id="when-field-value-month-2" type="hidden" value="" />
+                                </div>
+                                <div class="guests-field-container">
+                                    <label class="sr-only" for="guests-field-2">How many guests?</label>
+                                    <select id="guests-field-2" data-selected="2">
+                                        <option value="1">1 Guest</option>
+                                        <option value="2">2 Guests</option>
+                                        <option value="3">3 Guests</option>
+                                        <option value="4">4 Guests</option>
+                                        <option value="5">5 Guests</option>
+                                    </select>
+                                </div>
+                                <div class="travelers-field-container">
+                                    <label class="sr-only" for="travelers-field-2">How many travelers?</label>
+                                    <select id="travelers-field-2" data-selected="1">
+                                        <option value="1">1</option>
+                                        <option value="2">2</option>
+                                        <option value="3">3</option>
+                                        <option value="4">4</option>
+                                        <option value="5">5</option>
+                                        <option value="6">6</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="search-history-div">
+                                <div class="search-history-headline">SEARCH HISTORY</div>
+                                <div class="search-history-list-div"><ul id="search-history-list"/></div>
+                            </div>
+                            <div class="what-button-container search-buttons hidden">
+                                <div class="search-buttons-title">What are you looking for?</div>
+                                <div id="what-buttons" class="btn-group">
+                                </div>
+                            </div>
+                            <div class="where-button-container search-buttons hidden">
+                                <div class="search-buttons-title">Start typing or select a destination</div>
+                                <div id="where-buttons" class="btn-group">
+                                </div>
+                            </div>
+                            <div class="search-submit-container">
+                                <button id="search-button-2" type="submit">Search Deals</button>
+                            </div>
+                        </div>
+                                            </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        function showSearchFormOverlay() {
+            if($('#global-nav-search').length)
+            {
+                $('#global-nav-search').css('display','');
+            }
+            $('#search-form-overlay').show('slide');
+            $('body').addClass('js-noscroll');
+            if ($('.quicklinks-global-nav').length)
+            {
+                var searchelem = $('#overlay-search-form');
+                $('#overlay-search-form').css('margin-bottom', '0px');
+                $('#overlay-search-form').css('padding', '40px 10px 0px 10px');
+            }
+            /*Render SearchHistory section in the overlay*/
+            tzoo.SiteSearchHistory.renderSearchHistoryToOverlay($('#search-history-list'), $('.search-history-div'));
+            
+        }
+        $(function () {
+            function trackSearch(combinedQuery, trackingParameters) {
+                var label = combinedQuery;
+                try {tzoo.gtm.analyticsEvent('Search', 'Search', label, 0, false, trackingParameters);} catch(err) {};
+            };
+            var translations = {
+                FromEmpty: 'Please enter an airport or city you would like to fly from.',
+                ToEmpty: 'Please enter an airport or city you would like to fly to.',
+                Showing: 'Showing {0} of {1}',
+            };
+
+            tzoo.SiteSearch.dpLocalization = {
+                tooltipTextNoRoomsAvailable: 'Deal not available',
+                tooltipTextNotAvailableMinimumStayRestriction: 'Not available due to {0} nights <br> minimum stay restriction',
+                tooltipTextAverageNightlyRate: 'average nightly rate',
+                tooltipTextpricePerNight: '/ night',
+                tooltipTextMinimumNight: 'nights min.',
+                tooltipTextRoomsLeft: 'rooms left',
+                tooltipTextRoomLeft: 'room left',
+                selectedDateRangePlaceHolder: 'Select dates',
+                selectedDateRangeBeginningTooltip: 'Check-in',
+                selectedDateRangeEndTooltip: 'Check-out',
+                dealRateText: 'Travelzoo Deal Rate',
+                checkRatesText: 'Check<br/>rates',
+                continueText: 'Continue',
+                signInRequired: 'Member Rate<br>Sign In required',
+                monthsshort: ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+                notAvailable: 'N/A'
+            };
+            tzoo.SiteSearch.dpCurrentRegionSettings = {
+                closeText: 'Done',
+                prevText: 'Prev',
+                nextText: 'Next',
+                currentText: 'Today',
+                monthNames: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
+                monthNamesShort: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
+                dayNames: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
+                dayNamesShort: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'],
+                dayNamesMin: ['S', 'M', 'T', 'W', 'T', 'F', 'S'],
+                weekHeader: 'Wk',
+                displayDateFormat: 'mm/dd/yy',
+                firstDay: '0',
+                isRTL: false,
+                showMonthAfterYear: false,
+                yearSuffix: "",
+                selectedDateRangePlaceHolder: 'Select dates',
+                selectedDateRangeBeginningTooltip: ['Depart', 'Check-in'],
+                selectedDateRangeEndTooltip: ['Return', 'Check-out']
+            };
+
+            tzoo.SiteSearch.initializeSearch({
+                whatDisplayFieldSelector: '#what-field-1',
+                whatValueFieldSelector: '#what-field-value-1',
+                whereDisplayFieldSelector: '#where-field-1',
+                whereValueFieldSelector: '#where-field-value-1',
+                whereFromDisplayFieldSelector: '#where-from-field-1',
+                whereFromValueFieldSelector: '#where-from-field-value-1',
+                whereToDisplayFieldSelector: '#where-to-field-1',
+                whereToValueFieldSelector: '#where-to-field-value-1',
+                guestsFieldSelector: '#guests-field-1',
+                travelersFieldSelector: '#travelers-field-1',
+                whenMenuContainerSelector: '#when-menu-container',
+                whenMenuSelector: '#when-menu',
+                whenDisplayFieldSelector: '#when-field-1',
+                whenTypeValueFieldSelector: '#when-field-value-1',
+                whenMonthValueFieldSelector: '#when-field-value-month-1',
+                submitButtonSelector: '#search-button-1',
+                formSelector: '#header-search-form',
+                translations: translations,
+                trackSearch: trackSearch,
+                heatMapDataSource: '/Search/GetPriceHeatMapDataSource/',
+                whereFromHelperText: 'Start typing a location or select from our popular destinations.',
+                whereFieldPlaceholder: 'Anywhere...',
+                whereFieldAltPlaceholder: 'Start typing or select a destination'
+            });
+            tzoo.SiteSearch.initializeSearch({
+                whatDisplayFieldSelector: '#what-field-2',
+                whatValueFieldSelector: '#what-field-value-2',
+                whereDisplayFieldSelector: '#where-field-2',
+                whereValueFieldSelector: '#where-field-value-2',
+                whereFromDisplayFieldSelector: '#where-from-field-2',
+                whereFromValueFieldSelector: '#where-from-field-value-2',
+                whereToDisplayFieldSelector: '#where-to-field-2',
+                whereToValueFieldSelector: '#where-to-field-value-2',
+                guestsFieldSelector: '#guests-field-2',
+                travelersFieldSelector: '#travelers-field-2',
+                whenMenuContainerSelector: '#when-menu-container',
+                whenMenuSelector: '#when-menu',
+                whenDisplayFieldSelector: '#when-field-2',
+                whenTypeValueFieldSelector: '#when-field-value-1',
+                whenMonthValueFieldSelector: '#when-field-value-month-1',
+                submitButtonSelector: '#search-button-2',
+                formSelector: '#overlay-search-form',
+                translations: translations,
+                trackSearch: trackSearch,
+                heatMapDataSource: '/Search/GetPriceHeatMapDataSource/',
+                whereFromHelperText: 'Start typing a location or select from our popular destinations.',
+                formOverlaySelector: '#search-form-overlay'
+            });
+            $('.search-overlay-button').on('click', function () {
+                showSearchFormOverlay();
+                var label = $(this).text().trim();
+                try {tzoo.gtm.analyticsEvent('Search', 'Search button Click', label, 0, false);} catch(err) {}
+            });
+
+            $('.button-globalnav').on('click', function () {
+                showSearchFormOverlay();
+                try {tzoo.gtm.analyticsEvent('Global Navigation', 'Menu Open', 'Menu Open', 0, false);} catch(err) {}
+                tzoo.optimizelyTrackEvent('GNavClicks');
+            });
+
+            $('.fullscreen-overlay-close').on('click', function () {
+                $('#global-nav-search').css('display','none');
+                 try {tzoo.gtm.analyticsEvent('Search', 'Search Overlay Close', 'Search Overlay Close', 0, false);} catch(err) {};
+            });
+
+
+            $('.quicklinks-global-nav a').on('click', function () {
+                var label = $(this).text().trim();
+                try {tzoo.gtm.analyticsEvent('Global Navigation', 'Browsing Click', label, 0, false);} catch(err) {}
+                var href = $(this).attr('href');
+                location.href = href;
+                return false;
+            });
+
+            $('#when-menu-container .fullscreen-overlay-close').on('click', function () { $('#when-menu-container').hide()});
+            tzoo.locationCountryTypeSearchThreshold = 200;
+        });
+    </script>
+
+<script type="text/javascript">tzoo.trackImpressions([2823751, 2823798, 2820949, 2823151, 2823469, 2823827, 2823781, 2823800, 2823118, 2823803, 2823779, 2823828, 2820822, 2820794, 2820562, 2820837, 2820804], [], [3936, 3834, 3891]);</script><img src="https://ad.atdmt.com/i/img;p=11042218585270;idfa=;aaid=;idfa_lat=;aaid_lat=;cache=" style="width: 1px; height: 1px; border-width: 0;" alt="*" /><img src="https://bs.serving-sys.com/Serving/adServer.bs?cn=display&c=19&pli=1075087987&adid=1079516415&ord=55171351.9652" BORDER="0" WIDTH="1" HEIGHT="1" alt=""><img src="https://ad.doubleclick.net/ddm/trackimp/N5192.1425.TRAVELZOO/B23266065.259685795;dc_trk_aid=455739517;dc_trk_cid=124213580;ord=55171351.9652;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?" style="width: 1px; height: 1px; border-width: 0;" alt="*" /><img src="https://servedby.flashtalking.com/imp/8/108302;4204039;201;pixel;Travelzoo;ArizonaNovember2019Impressions/?cachebuster=55171351.9652" style="width: 1px; height: 1px; border-width: 0;" alt="*" /><img src="https://tag.yieldoptimizer.com/ps/analytics?pxid=55389&" style="width: 1px; height: 1px; border-width: 0;" alt="*" /><img src="https://dc.arrivalist.com/px/?pixel_id=978&a_source=TravelZoo&a_medium=Custom_PaidContent&a_campaign=Fall_2020&a_content=Sponsored_Story_1&a_type=paid" style="width: 1px; height: 1px; border-width: 0;" alt="*" /><img src="https://servedby.flashtalking.com/imp/8/109473;4196600;201;pixel;Travelzoo;TrafalgarNovember2019Impressions/?cachebuster=55171351.9652" BORDER="0" WIDTH="1" HEIGHT="1" alt="">
+<script type="text/javascript">tzoo.gtm = new tzoo.GTMHelper({ dataLayer: gtmDL, ecommerceCurrency: null });</script>
+    <div id="locationDetection-overlay" class="text-center" style="display: none;">
+        <button class="button-close" id="closeLocationOverlay" type="button" role="button" title="Close">Close</button>
+        <h3 class="padding-top-30 text-bold">
+            Your location
+        </h3>
+        <div id="nonMemberLocDetection-header" class="padding-20" style="display: none;">
+            We think we’ve found your location. Should we use <span class="text-bold">{0}</span>?
+        </div>
+        <div id="memberLocDetection-header" class="padding-20" style="display: none;">
+            Should we use <span class="text-bold">{0}</span>?
+        </div>
+        <input type="hidden" id="detected-coords" />
+        <div class="text-center padding-20" id="divLocationDetection">
+            <div id="spanUseAssumedLocation" class="padding-bottom-10">
+                <button type="submit" class="button-primary" id="btnUseAssumedLocation">Yes</button>
+            </div>
+            <span id="spanChangeMyLocation">
+                <button type="submit" class="button-secondary" id="btnChangeMyLocation">No, Change My Location</button>
+            </span>
+
+        </div>
+        <div class="disclaimer">For more information on how we use your location data, see our <a href="/privacy/" target="_blank">privacy policy</a>.</div>
+    </div>
+
+<div id="setLocation" style="display: none;">
+    <div class="padding-20 padding-top-30">
+        <h3 class="text-center text-bold">
+            Where Are You?
+        </h3>
+        <div class="padding-top-10 text-center">Begin typing a city to find your location:</div>
+        <div class="where-field-container">
+            <label class="sr-only" for="where-locationPrompt">Where?</label>
+            <input id="where-locationPrompt" type="text" autocomplete="off" class="ui-autocomplete-input" data-suppress-default-locations="true">
+            <input id="where-locationPrompt-value" type="hidden">
+            <input id="where-locationPrompt-coords" type="hidden" />
+        </div>
+    </div>
+    <div id="divLocationChange" class="padding-20 text-center">
+        <div id="spanChangeLocation" class="padding-bottom-10">
+            <button type="submit" id="btnChangeLocation" class="padding-10 button-primary ">Set My Location</button>
+        </div>
+        <span id="spanCancelLocationChange">
+            <button type="submit" id="btnCancelLocationChange" class="padding-10">Cancel</button>
+        </span>
+    </div>
+    <div class="disclaimer">For more information on how we use your location data, see our <a href="/privacy/" target="_blank">privacy policy</a>.</div>
+</div>
+<script>
+    tzoo.LocationDetection.initializeOverlay(
+        {
+            akamaiLatitude: '41.7144',
+            akamaiLongitude: '-73.9069',
+            setLocationErrorMessage: 'Please enter a valid destination.'
+        });
+</script>
+
+            <div id="fb-root"></div>
+            <script>
+                (function(d, s, id) {
+                    var js, fjs = d.getElementsByTagName(s)[0];
+                    if (d.getElementById(id)) return;
+                    js = d.createElement(s); js.id = id;
+                    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1\u0026version=v2.8";
+                    fjs.parentNode.insertBefore(js, fjs);
+                }(document, 'script', 'facebook-jssdk'));
+            </script>
+
+    <script>
+        function headerMenuSignOut() {
+            $.get("/MyAccount/logout/",
+                {
+                    timeStamp: Date.now()
+                }).done(function (data) {
+                tzoo.MemberIdLoggedIn = "";
+                tzoo.layout.reloadHeader();
+                $(document).trigger("signedout.headermenu");
+            });
+        }
+        $(document).ready(function () {
+            tzoo.layout.reloadMemberRecognition();
+        });
+    </script>
+
+    <div id="siteEditionDrawer" class="noprint menu-drawer menu-drawer--right ada-auto-ignore">
+        <nav class="nav-site-edition menu-drawer-content">
+            <h3>Site Editions</h3>
+
+            <p class="text-sm margin-bottom-5">You are currently on the U.S. site edition.</p>
+            <div id="currentEdition"><i class="flag-us-sm"></i> <span>U.S.</span></div>
+            <p class="text-sm margin-bottom-5">Travelzoo publishes top travel deals from hundreds of travel companies in countries around the world.</p>
+            <ul id="siteEditions">
+                        <li><a data-code="ae" href="http://www.travelzoo.com/ae/"><i class="flag-ae-sm"></i> Asia in English</a></li>
+                        <li><a data-code="au" href="http://www.travelzoo.com/au/"><i class="flag-au-sm"></i> Australia</a></li>
+                        <li><a data-code="ca" href="http://www.travelzoo.com/ca/"><i class="flag-ca-sm"></i> Canada</a></li>
+                        <li><a data-code="de" href="http://www.travelzoo.com/de/"><i class="flag-de-sm"></i> Deutschland</a></li>
+                        <li><a data-code="es" href="http://www.travelzoo.com/es/"><i class="flag-es-sm"></i> Espa&#241;a</a></li>
+                        <li><a data-code="fr" href="http://www.travelzoo.com/fr/"><i class="flag-fr-sm"></i> France</a></li>
+                        <li><a data-code="uk" href="http://www.travelzoo.com/uk/"><i class="flag-uk-sm"></i> United Kingdom</a></li>
+                        <li><a data-code="cn" href="http://www.travelzoo.com/cn/"><i class="flag-cn-sm"></i> 中国</a></li>
+                        <li><a data-code="tw" href="http://www.travelzoo.com/tw/"><i class="flag-tw-sm"></i> 台灣</a></li>
+                        <li><a data-code="jp" href="http://www.travelzoo.com/jp/"><i class="flag-jp-sm"></i> 日本</a></li>
+                        <li><a data-code="hk" href="http://www.travelzoo.com/hk/"><i class="flag-hk-sm"></i> 香港特區</a></li>
+            </ul>
+        </nav>
+        <button type="button" class="button-close">Close</button>
+    </div>
+    <script>
+
+
+
+            
+                tzoo.Overlays.register(
+                {
+                    id: 'siteEditionDrawer',
+                    priority: 100,
+                    show: function (id) {
+                        $('#siteEditionDrawer').addClass('menu-drawer--opened');
+                    },
+                    hide: function (id) {
+                        $('#siteEditionDrawer').removeClass('menu-drawer--opened');
+                    },
+                    autoShow: false
+                });
+            
+
+    </script>
+
+
+    
+<div id="register-div">
+    <div id="register-div-close"
+    >
+        <button class="button-close" id="btnClose" type="button" title="Close">Close</button>
+    </div>
+    <form id="register-form">
+        <div id="register-message" class="alert-box-error" style="display:none;">
+            <div class="label-message-wechat" style="display:none;"></div>
+        </div>
+        <div id="signup" class="register-section">
+            <div class="ovrlayContainer">
+                <div class="ovrlay-image-container">
+                    <div class="tzsg-img-container"><div class="tzsg-img-2-by-1"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://ssl.tzoo-img.com/static/images/signup-overlay-generic-step1-us.jpg?v=xe4jpu&width={width}" alt="" data-credits="" class="tzsg-lazy ovrlayImage block  fade-in" title="" /></div></div>
+                </div>
+                <div class="ovrlayDealHdr js-dealSpecific"></div>
+                <div class="js-generic largeConvincingWords convincingWords">Deals so good, we can only show them to Travelzoo members. 
+<div class="text-reg margin-top-10">Sign up now for free access to deals we negotiate on behalf of <b>millions of Travelzoo members</b> worldwide.</div> </div>
+            </div>
+
+            <div class="bodyDiv center text-center">
+                <div class="js-expired-message convincingWords padding-bottom-10 padding-top-15 text-error" style="display: none;"></div>
+                <div class="js-dealSpecific js-convincing-words convincingWords padding-bottom-10">
+                    Sign up for free to see this deal!<br /> 
+It takes seconds and gives you access to thousands of exclusively negotiated deals.
+                </div>
+                <div class="js-favoriteSpecific convincingWords padding-bottom-10">
+                        <div class=" padding-top-15">
+                            <h2 class="padding-bottom-10">Create a free account.</h2>
+                            <span class="dynamicSubTitle"></span>
+                        </div>
+
+                </div>
+
+                <div id="signup-email-step">
+
+                    <input type="email" id="emailSignup" class="narrow-input" placeholder="Your email" name="emailSignup" />
+                    <button type="submit" id="btnSignup" class="narrow-button button-login button-primary button-preloader center block">
+Sign up                    </button>
+                    <input type="hidden" id="fbSignUpResponseUrl" name="fbSignUpResponseUrl" />
+
+                    <div class="padding-top-15 padding-bottom-15 heading-divider">or</div>
+                        <button type="submit" id="btnFbSignup" class="button-signin-facebook center block">Sign up with Facebook</button>
+                                                            <div class="padding-bottom-30 padding-top-20 center"><span class="padding-right-5">Already a member?</span> <a role="button" class="js-alreadysubscriber">Sign in</a></div>
+                </div>
+                <div id="postcode-step" class="padding-top-15" style="display: none;">
+                    <div class="padding-bottom-10 js-generic">
+                        <h2 class="padding-bottom-10">Just one more thing...</h2>
+                        Your ZIP code will help us show you the best deals for your area.
+                    </div>
+                    <div class="padding-bottom-10 js-dealSpecific">
+                        <h2 class="padding-bottom-10">Just one more thing...</h2>
+                        Your ZIP code will help us show you the best deals for your area.
+                    </div>
+                    <div>
+                        <input type="text" name="zipCode" placeholder="ZIP code" id="zipCode">
+                    </div>
+                    <div class="margin-top-10">
+                        <select id="ddpostcodes"></select>
+                    </div>
+                    <div class="margin-top-10">
+                        <select id="ddCountries"></select>
+                    </div>
+                    <div id="updateZipButton" class="padding-bottom-40">
+                        <button type="submit" id="btnSubmitZip" class="button-primary button-preloader center block">Continue</button>
+                    </div>
+                </div>
+                <div id="confirmation-step" class="padding-top-20" style="display: none;">
+                    <div class="icon-signup-inbox center margin-bottom-5"></div>
+                    <h2 class="padding-bottom-10">Check your inbox.</h2>
+                    <div class="padding-bottom-40">Confirm your email and we’ll get you off and running.</div>
+                    <div id="goToEmail" class="margin-bottom-40" style="display: none;"><a id="lnkGoToEmail" class="link-gotoemail" href="#" target="_blank">Go to Email</a></div>
+                    <div id="changeEmail" class="text-muted margin-bottom-20" style="display:none;">We have sent the confirmation email to<br> <span class="email-addr"></span> (<a role="button" class="js-change-email-conf">change</a>)</div>
+                </div>
+                <div id="signup-password-step" class="padding-top-15 padding-bottom-15" style="display: none;">
+                    <h2>Create your password.</h2>
+                    <div class="margin-top-15">
+                        <input type="password" id="passwordSignup" placeholder="New password" name="passwordSignup" />
+                    </div>
+                    <div class="margin-top-10">
+                        <input type="password" id="password2Signup" placeholder="Confirm new password" name="password2Signup" />
+                    </div>
+                    <button type="submit" id="btnSignupPassword" class="button-primary button-preloader center block">Continue</button>
+                </div>
+
+                <div class="overlayFooter padding-bottom-10"> 
+	By using our services, you agree to abide by our <br>
+	<a href="/terms-and-conditions/" target="_blank">Terms & Conditions</a> and <a href="/privacy/" target="_blank">Privacy Policy</a>
+</div>
+            </div>
+            
+        </div>
+        <div id="signin" style="display: none;" class="register-section">
+            <div class="ovrlayContainer">
+
+                <div class="tzsg-img-container ovrlay-image-container">
+                    <div class="tzsg-img-2-by-1">
+                        <img class="ovrlayImage block fade-in" title="">
+                    </div>
+                </div>
+                <span class="convincingWords largeConvincingWords padding-top-20 js-generic">Deals so good, we can only show them to Travelzoo members. 
+<div class="text-reg margin-top-10">Sign up now for free access to deals we negotiate on behalf of <b>millions of Travelzoo members</b> worldwide.</div></span>
+                <div class="ovrlayDealHdr js-dealSpecific"></div>
+            </div>
+            <div class="bodyDiv center text-center">
+                <div class="js-dealSpecific convincingWords padding-bottom-10">
+                     Sign in to see this fantastic deal.
+                </div>
+                <div id="signin-email-step">
+                    <input type="email" id="emailSignin" class="narrow-input" placeholder="Your email" name="emailSignin" />
+                    <button type="submit" id="btnSignin" class="narrow-button button-login button-primary button-preloader center block">Sign in</button>
+                    <div class="padding-top-15 padding-bottom-15 heading-divider">or</div>
+                        <button type="submit" id="btnFbSignin" class="button-signin-facebook center block">Sign in with Facebook</button>
+                                                            <div class="padding-bottom-30 padding-top-20 center">Not a member?&nbsp;<a class="js-becomesubscriber" role="button">Join for free</a></div>
+                </div>
+                <div class="overlayFooter padding-bottom-10"> 
+	By using our services, you agree to abide by our <br>
+	<a href="/terms-and-conditions/" target="_blank">Terms & Conditions</a> and <a href="/privacy/" target="_blank">Privacy Policy</a>
+</div>
+            </div>
+            
+        </div>
+        <div id="login" style="display:none;" class="register-section">
+            <div class="bodyDiv center text-center">
+                <div id="login-email-step">
+                    <div class="js-nocookie" style="display:none;">
+                        <div class="icon-signin-account center margin-bottom-5"></div>
+                        <div>
+                            <h2 class="margin-bottom-10">Sign in to your account.</h2>
+                        </div>
+                        <div id="emailTextbox">
+                            <input type="email" id="emailLogin" placeholder="Email address" name="emailLogin" />
+                        </div>
+                        <div class="margin-top-10">
+                            <input type="password" id="passwordLogin" placeholder="Password" name="passwordLogin" />
+                        </div>
+                        <button type="submit" id="btnLogin" class="button-login button-primary button-preloader center block">Sign in</button>
+                    </div>
+                    <div class="js-signedin" style="display:none;">
+                        <div class="icon-pw center margin-bottom-5"></div>
+                        <div class="js-enterPassword" style="display:none;">
+                            <h2 class="margin-bottom-10">Enter your password</h2>
+                            <div id="emailText">
+                                <div class="text-muted"><div class="js-memberEmail" style="display: inline-block;"></div> (<a role="button" class="js-change-email">change</a>)</div>
+                            </div>
+                            <div class="margin-top-10">
+                                <input type="password" id="passwordLogin_memberWithPW" placeholder="Password" name="passwordLogin_member" />
+                            </div>
+                            <button type="submit" id="btnLogin_memberWithPW" class="button-primary button-preloader center block">Sign in</button>
+                        </div>
+                        <div class="js-createPassword" style="display:none;">
+                            <h2 class="margin-bottom-10">Create your password.</h2>
+                            <div class="text-muted padding-bottom-10">
+                                <div class="js-memberEmail inline-block padding-right-5"></div>(<a role="button" class="js-change-email">change</a>)
+                            </div>
+                            <div>
+                                <input type="password" id="password_memberWithNoPW" placeholder="New password" name="password_memberWithNoPW" />
+                                <div class="margin-top-10">
+                                    <input type="password" id="password2_memberWithNoPW" placeholder="Confirm new password" name="password2_memberWithNoPW" />
+                                </div>
+                                <button type="submit" id="btnSignup_memberWithNoPW" class="button-primary button-preloader center block">Continue</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row padding-top-5">
+                        <div class="float-left">
+                            <input type="checkbox" id="rememberMeLogin" checked="checked" />
+                            <label for="rememberMeLogin" class="text-sm">Stay signed in</label>
+                        </div>
+                        <div class="float-right">
+                            <a role="button" class="text-sm" id="forgotPasswordLogin">Don’t know password?</a>
+                        </div>
+                    </div>
+
+                    <div class="joinLinks">
+                        <div class="padding-top-15 padding-bottom-15 heading-divider">or</div>
+                            <button type="submit" id="btnFbLogin" class="button-signin-facebook center block">Sign in with Facebook</button>
+                                                                        <div class="padding-top-20 center text-bold becomesubscriber">Not a member?&nbsp;<a class="js-becomesubscriber" role="button">Join for free</a></div>
+                    </div>
+
+                </div>
+                <div class="overlayFooter">
+                    <span class="icon-secure-lock"><span class="padding-left-5">This connection is secure.</span></span>
+                </div>
+            </div>
+        </div>
+        <div id="password-reset" style="display: none;" class="register-section">
+            <div class="bodyDiv center text-center">
+                <div id="password-reset-email-step">
+                    <div class="text-left">
+                        <a role="button" class="js-alreadysubscriber link-pointer-back">Sign in</a>
+                    </div>
+                    <div class="icon-pw center margin-bottom-5"></div>
+                    <div>
+                        <h2 class="margin-bottom-10">Don’t know password?</h2>
+                    </div>
+                    <div class="padding-bottom-10">
+                        Enter the email address that you used to join Travelzoo and we’ll send you a link to reset your password.
+                    </div>
+                    <div>
+                        <input type="email" id="emailPasswordReset" placeholder="Email address" name="emailPasswordReset" />
+                        <button type="submit" id="btnPasswordReset" class="button-primary button-preloader center block">Continue</button>
+                    </div>
+                </div>
+                <div class="overlayFooter">
+                    <span class="icon-secure-lock"><span class="padding-left-5">This connection is secure.</span></span>
+                </div>
+            </div>
+        </div>
+        <div id="password-reset-done" style="display: none;" class="register-section">
+            <div class="bodyDiv center text-center">
+                <div id="password-reset-email-step">
+                    <div class="icon-signup-inbox center margin-bottom-5"></div>
+                    <div>
+                        <h2 class="margin-bottom-10">Check your inbox.</h2>
+                    </div>
+                    <div class="padding-bottom-40">
+                        We’ve sent you an email with instructions to reset your password.
+                    </div>
+                </div>
+                <div id="reset-goToEmail" class="margin-bottom-40" style="display: none;"><a id="reset-lnkGoToEmail" class="link-gotoemail" href="#" target="_blank">Go to Email</a></div>
+            </div>
+        </div>
+        <div id="hotel-signup" style="display: none;" class="register-section">
+            <div>
+                <div class="tzsg-img-container"><div class="tzsg-img-2-by-1"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://ssl.tzoo-img.com/static/images/signup-overlay-generic-step1-us.jpg?v=xe4jpu&width={width}" alt="" data-credits="" class="tzsg-lazy ovrlayImage block  fade-in" title="" /></div></div>
+            </div>
+            <div class="bodyDiv center text-center">
+                <div id="hotel-signup-email-step" class="padding-bottom-30">
+                    <h2 class="padding-top-15 margin-bottom-10">Join Travelzoo – it’s free</h2>
+                    <div class="margin-bottom-10"><span class="padding-right-5">(Already a member?</span><a class="js-alreadysubscriber text-bold" role="button">Sign in</a>)</div>
+                    <div>Sign up for free to see this deal!<br /> 
+It takes seconds and gives you access to thousands of exclusively negotiated deals.</div>
+
+                    <div>
+                        <input type="email" id="hotel-emailSignup" class="narrow-input" placeholder="Your email" name="hotel-emailSignup" />
+                        <button type="submit" id="hotel-btnSignup" class="narrow-button button-login button-primary button-preloader center block">
+Sign up                        </button>
+                        <div class="padding-top-15 padding-bottom-15 heading-divider">or</div>
+                            <button type="submit" id="hotel-btnFbSignup" class="button-signin-facebook center block">Sign up with Facebook</button>
+                                                                    </div>
+                </div>
+                <div id="hotel-postcode-step" class="padding-top-15 padding-bottom-15" style="display: none;">
+                    <div class="padding-bottom-10">
+                        <h2 class="padding-bottom-10">Just one more thing...</h2>
+                        Your ZIP code will help us show you the best deals for your area.
+                    </div>
+                    <div>
+                        <input type="text" name="hotel-zipCode" placeholder="ZIP code" id="hotel-zipCode">
+                    </div>
+                    <div class="margin-top-10">
+                        <select id="hotel-ddpostcodes"></select>
+                    </div>
+                    <div class="margin-top-10">
+                        <select id="hotel-ddCountries"></select>
+                    </div>
+                    <div class="padding-bottom-40">
+                        <button type="submit" id="hotel-btnSubmitZip" class="button-primary button-preloader center block">Continue</button>
+                    </div>
+                </div>
+                <div id="hotel-confirmation-step" class="padding-top-20 padding-bottom-40" style="display: none;">
+                    <div class="icon-signup-inbox center margin-bottom-5"></div>
+                    <h2 class="padding-bottom-10">Check your inbox.</h2>
+                    <div>Confirm your email and we’ll get you off and running.</div>
+                    <div id="hotel-goToEmail" class="margin-top-40" style="display: none;"><a id="hotel-lnkGoToEmail" class="link-gotoemail" href="#" target="_blank">Go to Email</a></div>
+                        <div id="continueWhereILeftOff">
+                            <div class="heading-divider padding-top-15 padding-bottom-15"> or </div>
+                            <div>Confirm later</div>
+                            <a id="lnkcontinueWhereILeftOff" role="button">Continue where I left off</a>
+                        </div>
+                </div>
+                <div class="overlayFooter padding-bottom-10"> 
+	By using our services, you agree to abide by our <br>
+	<a href="/terms-and-conditions/" target="_blank">Terms & Conditions</a> and <a href="/privacy/" target="_blank">Privacy Policy</a>
+</div>
+            </div>
+            
+        </div>
+        <div id="hotel-signin" style="display:none;" class="register-section">
+            <div class="bodyDiv center text-center">
+                <div class="icon-signin-account center margin-bottom-5"></div>
+                <h2 class="margin-bottom-10">Sign in to unlock</h2>
+                <div>Only members can access this deal.</div>
+                <div class="margin-bottom-10">(Not a member?&nbsp;<a class="text-bold js-becomesubscriber" role="button">Join for free</a>)</div>
+                <div id="hotel-signin-email-step" class="padding-bottom-40">
+                    <input type="email" id="hotel-emailSignin" placeholder="Your email" name="hotel-emailSignin" />
+                    <button type="submit" id="hotel-btnSignin" class="button-login button-primary button-preloader center block">Sign in</button>
+                    <div class="padding-top-15 padding-bottom-15 heading-divider">or</div>
+                        <button type="submit" id="hotel-btnFbSignin" class="button-signin-facebook center block">Sign in with Facebook</button>
+                                                        </div>
+            </div>
+        </div>
+        <div id="hotel-loginPortal" style="display:none;" class="register-section">
+            <div class="bodyDiv center text-center">
+                <div class="icon-member-exclusive-lock center margin-bottom-20 margin-top-20"></div>
+                <div class="innerContent center">
+                    <h2 class="margin-bottom-10">DON'T MISS OUT!</h2>
+                    <h3 class="margin-bottom-20">Our Deal Experts have negotiated<br/><span class="member-exclusive">MEMBER EXCLUSIVE</span> rates<br/>for people like you.</h3>
+
+                    <div class="margin-bottom-10">Not a member?&nbsp;<a class="text-bold js-becomesubscriber" role="button">Sign up in seconds</a></div>
+                    <div class="margin-bottom-30">Already a member?&nbsp;<a class="text-bold js-alreadysubscriber" role="button">Sign in</a></div>
+                </div>
+            </div>
+        </div>
+        <div id="welcome-step" style="display: none;" class="register-section">
+            <div class="ovrlayContainer">
+                <div class="ovrlayDealHdr js-dealSpecific"></div>
+                <div class="tzsg-img-container ovrlay-image-container">
+                    <div class="tzsg-img-2-by-1">
+                        <img alt="" data-credits="" class="ovrlayImage block fade-in" title="">
+                    </div>
+                </div>
+            </div>
+            <div class="bodyDiv center text-center">
+                <div class="icon-signup-success center margin-top-20 margin-bottom-5">
+                </div>
+                <h2 class="js-generic padding-bottom-10">And You’re in.</h2>
+                <h2 class="js-dealSpecific padding-bottom-10">And You’re in.</h2>
+                <div class="js-generic padding-bottom-10">
+Start exploring more. <br>
+ For less.<br>
+                </div>
+                <div class="js-dealSpecific padding-bottom-20">
+
+                        <p>You now have access to all our deals.</p>
+                        <p>Here are the details of the deal you were interested in.</p>
+
+
+                </div>
+                <div class="js-generic padding-top-5 padding-bottom-40">
+                    <div class="explore-div">
+                        <button type="button" id="btnExplore" class="button-secondary center block">Explore</button>
+                    </div>
+                </div>
+                <div class="js-dealSpecific padding-top-5 padding-bottom-40">
+                    <div class="explore-div">
+                        <button type="button" id="btnExploreDeal" class="button-secondary center block">
+Explore                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="loginFavorite" style="display: none;" class="register-section">
+            <div class="bodyDiv center text-center">
+                <div id="login-email-step">
+                    <div class="js-nocookie" style="display:none;">
+                        <div class="icon-signin-account center margin-bottom-5"></div>
+                            <span id="destnmsg" style="display:none;">
+                                <h2 class="margin-bottom-10">Sign in to save and manage your deal alerts</h2>
+                            </span>
+                            <span id="favDealmsg">
+                                <h2 class="margin-bottom-10">Sign in to save this deal to Favorites.</h2>
+                                <div class="margin-bottom-10">With Favorites you can save deals for later, and be alerted when they are about to expire.</div>
+                            </span>
+                        <div id="emailTextbox_fav">
+                            <input type="email" id="emailLogin_fav" placeholder="Email address" name="emailLogin" />
+                        </div>
+                        <div class="margin-top-10">
+                            <input type="password" id="passwordLogin_fav" placeholder="Password" name="passwordLogin_fav" />
+                        </div>
+                        <button type="submit" id="btnLogin_fav" class="button-login button-primary button-preloader center block">Sign in</button>
+                    </div>
+                    <div class="js-signedin" style="display:none;">
+                        <div class="icon-pw center margin-bottom-5"></div>
+                        <div class="js-enterPassword" style="display:none;">
+                            <h2 class="margin-bottom-10 dynamicLoginTitle">Enter your password</h2>
+
+                            <div id="emailText_fav">
+                                <div class="text-muted"><div class="js-memberEmail" style="display: inline-block;"></div> (<a role="button" class="js-change-email">change</a>)</div>
+                            </div>
+                            <div class="margin-top-10">
+                                <input type="password" id="passwordLogin_memberWithPW_fav" placeholder="Password" name="passwordLogin_member" />
+                            </div>
+                            <button type="submit" id="btnLogin_memberWithPW_fav" class="button-primary button-preloader center block">Sign in</button>
+                        </div>
+                        <div class="js-createPassword" style="display:none;">
+                            <h2 class="margin-bottom-10">Create your password.</h2>
+                            <div class="margin-bottom-10">To save and manage your favorite deals, create your password.</div>
+                            <div class="text-muted padding-bottom-10">
+                                <div class="js-memberEmail padding-right-5" style="display: inline-block;"></div>(<a role="button" class="js-change-email">change</a>)
+                            </div>
+                            <div>
+                                <input type="password" id="password_memberWithNoPW_fav" placeholder="New password" name="password_memberWithNoPW_fav" />
+                                <div class="margin-top-10">
+                                    <input type="password" id="password2_memberWithNoPW_fav" placeholder="Confirm new password" name="password2_memberWithNoPW_fav" />
+                                </div>
+                                <button type="submit" id="btnSignup_memberWithNoPW_fav" class="button-primary button-preloader center block">Continue</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row padding-top-5">
+                        <div class="float-left">
+                            <input type="checkbox" id="rememberMeLogin_fav" checked="checked" />
+                            <label for="rememberMeLogin_fav" class="text-sm">Stay signed in</label>
+                        </div>
+                        <div class="float-right">
+                            <a role="button" class="text-sm" id="forgotPasswordLogin_fav">Don’t know password?</a>
+                        </div>
+                    </div>
+                    <div class="joinLinks">
+                        <div class="padding-top-15 padding-bottom-15 heading-divider">or</div>
+                            <button type="submit" id="btnFbLogin_fav" class="button-signin-facebook center block">Sign in with Facebook</button>
+                                                                        <div class="padding-top-30 center text-bold becomesubscriber">Not a member?&nbsp;<a class="js-becomesubscriber" role="button">Join for free</a></div>
+                    </div>
+                </div>
+                <div class="overlayFooter">
+                    <span class="icon-secure-lock"><span class="padding-left-5">This connection is secure.</span></span>
+                </div>
+            </div>
+        </div>
+        <div id="purchase-signin" class="padding-top-30 register-section" style="display:none">
+            <div class="bodyDiv center text-center">
+                <div class="icon-signin-account center margin-bottom-5"></div>
+                <h2 class="margin-bottom-10">Already a member?</h2>
+                <div id="purchase-signin-email-step" class="padding-bottom-30">
+                    <input type="email" id="purchase-emailSignin" class="member-emailaddr" placeholder="Your email" />
+                    <button type="button" id="purchase-btnSignin" class="button-login button-primary button-preloader center block">Continue</button>
+                    <div class="padding-top-15 padding-bottom-15 heading-divider">or</div>
+                        <button type="button" id="purchase-btnFbSignin" class="button-signin-facebook center block">Sign in with Facebook</button>
+                                                        </div>
+            </div>
+            <div id="purchase-signin-guest">
+                <div class="bodyDiv center text-center">
+                    <h2 class="padding-top-25">Not a member yet?</h2>
+                    <button type="button" id="purchase-btnContinueAsGuest" class="button-primary center block close-dialog">Continue as a guest</button>
+                    <div class="overlayFooter">
+                        <span class="icon-secure-lock"><span class="padding-left-5">This connection is secure.</span></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="purchase-member-signin" class="padding-top-30 register-section" style="display:none">
+            <div class="bodyDiv center text-center">
+                <div class="icon-signin-account center margin-bottom-5"></div>
+                <h2 class="margin-bottom-10">Already a member?</h2>
+                <div id="purchase-member-signin-email-step">
+                    <span class="member-emailaddr js-member-emailaddr"></span>
+                    <span class="text-muted nowrap">(<a role="button" href="javascript:void(0)" class="js-not-you">Not you?</a>)</span>
+                </div>
+                <button type="button" id="purchase-member-btnSignin" class="close-dialog button-login button-primary button-preloader center block">That's me, continue</button>
+                <div class="padding-top-15 padding-bottom-15 heading-divider">or</div>
+                    <button type="button" id="purchase-member-btnFbSignin" class="button-signin-facebook center block">Sign in with Facebook</button>
+                                            </div>
+            <div id="purchase-member-signin-guest">
+                <div class="bodyDiv center text-center">
+                    <div class="overlayFooter">
+                        <span class="icon-secure-lock"><span class="padding-left-5">This connection is secure.</span></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </form>
+</div>
+<script>
+    var globalOvrlSignupHdr;
+    function createSignupOverlay(overlayId, fbRedirectUrl) {
+        var lH = new Object();
+        var lSH = new Object();
+        var ovrl = new tzoo.SignupOverlay();
+        lH[ovrl.dynamicTitleEnum.Default] = 'Enter your password';
+        lH[ovrl.dynamicTitleEnum.Favorites] = 'Sign in to save and manage your favorite deals.';
+        lH[ovrl.dynamicTitleEnum.Alerts] = 'Sign in to save and manage your deal alerts';
+        lSH[ovrl.dynamicTitleEnum.Default] = 'We\u0027ll save this deal to your Favorites.';
+        lSH[ovrl.dynamicTitleEnum.Alerts] = 'We\u0027ll save this destination to your Alerts.';
+        var translations = {
+            PassInvalid: 'Your password must be at least 8 characters and include 1 number.',
+            PassMisMatch: 'Passwords don\u0027t match.',
+            EmailInvalid: 'Please enter a valid email address.',
+            UnknownError: 'An error occurred. Please try again later.',
+            PassMultipleTries: 'You have entered an incorrect password multiple times. Please recover your password by clicking the \"Don\u0027t know password?\" link and follow instructions.',
+            PassMustCreate: 'You don\u0027t have a password yet. Please \u003ca id=\"linkCreatePassword\" role=\"button\"\u003ecreate a password\u003c/a\u003e.',
+            CredentialsInvalid: 'The email address or password entered is incorrect. Please try again.',
+            PassMustEnter: 'Please enter a password.',
+            AccountExists: 'You already have an account, please sign in using the link below.',
+            PostCodeInvalid: 'Please enter a valid zip code.',
+            EmailNotRegistered: 'This email address is not currently registered. Please enter a different address or sign up.',
+            WxLoginError: 'Login error with Wechat, try again later please.',
+            QqLoginError: 'Login error with QQ, try again later please.'
+        };
+        ovrl.initializeOverlay({
+            overlayId: overlayId,
+            fbApiId: '140333999364794',
+            isMember: 'True',
+            overlayImages: ['https://ssl.tzoo-img.com/static/images/signup-overlay-generic-step1-us.jpg?v=xe4jpu',
+                            'https://ssl.tzoo-img.com/static/images/signup-overlay-generic-step2-us.jpg?v=xe4jpu',
+                            'https://ssl.tzoo-img.com/static/images/signup-overlay-generic-step3-us.jpg?v=xe4jpu',
+                            'https://ssl.tzoo-img.com/static/images/signup-overlay-generic-step4-us.jpg?v=xe4jpu'],
+            fbRedirectUrl: fbRedirectUrl ? fbRedirectUrl : "https%3A%2F%2Fwww.travelzoo.com%2FAuthentication%2FConnectWithFacebook%3Ffsc%3Dtrue%26tzlocale%3D1%26source%3D_tzlock%26placement%3DOverlay-GlobalHeader-SignUpOB%26newsflash%3D1%26informer%3D1%26id%3D0%26hotelId%3D0",
+            zipCodePlaceholder: 'ZIP code',
+            placement: 'Overlay-GlobalHeader-SignUpOB',
+            source: '_tzlock',
+            isFbConnect: false,
+            isGenericConfOverlay: false,
+            isExistingSubscriber: false,
+            isConfirmation: false,
+            dynamicLoginTitles : lH,
+            dynamicSubTitles : lSH,
+            closeOnEscape : true,
+            translations : translations,
+            modal: true,
+            dialogClass: '',
+            isWithoutEmailOptin: false,
+            askForExplicitConsent: false,
+            isHotelOverlay: false,
+            showGotoInboxOverlay: false,
+            emailDomainUrl : '',
+            queueId: ''
+        });
+        return ovrl;
+    }
+    $(document).ready(function () {
+        var ovrlSignupHdr = createSignupOverlay('ovrlSignupHdr');
+        ovrlSignupHdr.populateGenericOverlay({
+            placement: 'Overlay-GlobalHeader-SignUpOB',
+            source: '_signupwid'
+        });
+        globalOvrlSignupHdr = ovrlSignupHdr;
+
+        var socialLoginParam = null;
+
+        $('.join').on('click', function (e) {
+            ovrlSignupHdr.showZOverlay();
+            return false;
+        });
+        
+        if (!socialLoginParam) {
+            //ovrlSignupHdr.displayConfirmationOverlay(false);
+            ovrlSignupHdr.displayConfirmationOverlay();
+        }
+        
+        var ovrlLoginHdr = createSignupOverlay('ovrlLoginHdr');
+        var ovrlLoginHdrTargetUrl = '';
+        ovrlLoginHdr.populateLoginOverlay({
+            placement: 'Overlay-GlobalHeader-SignUpOB',
+            source: '_tzlock',
+            targetUrl: (ovrlLoginHdrTargetUrl != '' ? ovrlLoginHdrTargetUrl : location.href),
+            mode: ''
+        });
+        $(document).on( 'click', '.signin', function (e) {
+            ovrlLoginHdr.showZOverlay(false,null, false, null, false, $(e.target).data("clientsideloginlogout"));
+            return false;
+        });
+
+        $(document).on('click.credit-card-password-verify', '#js-dont-know-password', function(e) {
+            ovrlLoginHdr.showZOverlay(false, null, false, null, false, true);
+            ovrlLoginHdr.showPasswordReset();
+            return false;
+        });
+
+        var ovrlSignupFooter = createSignupOverlay('ovrlSignupFooter');
+        ovrlSignupFooter.populateGenericOverlay({
+            placement: 'Overlay-GlobalHeader-SignUpOB',
+            source: '_tz_footer'
+        });
+        $('#footer-join-button').on('click', function (e) {
+            $('#emailSignup, #emailSignin').val($('#footer-join-input').val());
+            ovrlSignupFooter.showZOverlay();
+            return false;
+        });
+        
+        $(window).on('orientationchange', function(event) {
+            if ($('#emailSignup').is(':focus')) {
+                setTimeout(function() {
+                    $('#emailSignup').blur().focus();
+                }, 300)
+            }
+        })
+        
+        
+        
+        var modeType = '';
+        if (modeType != null)
+        {
+            
+            if (modeType === 'signin' || modeType === 'resetpw' || modeType === 'createpw')
+            {
+                
+                $('.signin').trigger('click');
+
+                //we need a delay here.
+                setTimeout(function() {
+                    if (modeType === 'resetpw') {
+                        ovrlSignupHdr.showPasswordReset();
+                    } else if (modeType === 'createpw') {
+                        ovrlSignupHdr.showCreatePassword('', true);
+                    }
+                }, 200);
+            }
+        }
+        
+
+    });
+</script>
+
+  </div>
+  
+<script>
+    $(function () {
+        tzoo.layout.adjustCircleHeadlines();
+        try { tzoo.gtm.trackImpressions();} catch(err) { console.log(err.message); } ;
+
+        $('.quicklinks li a').on('click', function () {
+            var label = $(this).text().trim();
+            try {tzoo.gtm.analyticsEvent('Search', 'Predefined Search Tile Click', label, 0, false);} catch(err) {}
+
+            var href = $(this).attr('href');
+            href += href.indexOf('?') > 0 ? '&' : '?';
+            href += 'pageType=Homepage'
+
+            location.href = href;
+            return false;
+        });
+    });
+    function bgVideoControl() {
+        var bgVideoEl = $('#bgvideo');
+        // after 60s add class "paused" which fades out the video via css in 10s, then pause the video after the 10s
+        setTimeout(function () {
+            bgVideoEl.addClass('paused');
+            setTimeout(function () {
+                bgVideoEl[0].pause();
+            }, 10000);
+        }, 60000);
+    }
+    
+    try { tzoo.gtm.setProductList('[US] Homepage', '', '', '', '', undefined, undefined);} catch(err) { console.log(err.message); } ;
+    (function ($, tzoo) {
+        $(document).ready(function () {
+            $('#bgvideo').parent().css("background-image", "url('" + $('#bgvideo').attr('poster') + "')");
+
+            if (!tzoo.layout.isXs()) {
+                $("#bgvideo source").each(function () {
+                    var sourceFile = $(this).attr("data-src");
+                    $(this).attr("src", sourceFile);
+                    var video = this.parentElement;
+                    video.load();
+                    video.play();
+                    bgVideoControl();
+
+                    // wait until video is ready to play before fading in (to prevent flicker)
+                    video.addEventListener('loadedmetadata', function () {
+                        $(this.parentElement).addClass('animate-in');
+                    }, false);
+                });
+            } else {
+                // on XS, wait for background image to load before fading in
+                $('<img/>').attr('src', $('#bgvideo').attr('poster')).on('load', function () {
+                    $(this).remove(); // prevent memory leaks
+                    $('#bgvideo').parent().addClass('animate-in');
+                });
+            }
+
+            tzoo.PagingStorage.store()
+            tzoo.scrollAfterLoad();
+        });
+    })(jQuery, window.tzoo = window.tzoo || {});
+</script>
+
+  <script>
+
+    (function (tzoo, $) {
+        function BrowserLocationDetector(params) {
+            var defaultParams = {
+                success: function () { },   
+                denied: function () { },    
+                timeout: 3000               
+            }
+
+            params = $.extend(defaultParams, params);
+
+            var resultReturned = false;
+
+            var getGeolocation = function() {
+                if ('geolocation' in navigator)
+                    navigator.geolocation.getCurrentPosition(onPosition, onError);
+                else {
+                // For non-HTML5 capable browsers, there are some other options.
+                    var s = document.createElement('script');
+                    s.type = 'text/javascript';
+                    s.src = 'https://ssl.tzoo-img.com/static/gears_init.js?v=xe4jpu';
+                    document.body.appendChild(s);
+                    var s2 = document.createElement('script');
+                    s2.type = 'text/javascript';
+                    s2.src = 'https://ssl.tzoo-img.com/static/geo.js?v=xe4jpu';
+                    document.body.appendChild(s2);
+                    window.setTimeout(getGeolocationAlt, 100);
+                }
+                try {tzoo.gtm.analyticsEvent('LocationDetection', 'Request', 'Internal', 1, true);} catch(err) {}
+            };
+
+            var getGeolocationAlt = function() {
+                // Make sure those scripts have actually loaded.
+                if (window.geo_position_js) {
+                    if (geo_position_js.init()) {
+                        geo_position_js.getCurrentPosition(onPosition, onError);
+                    }
+                }
+                else {
+                // Wait a bit and try again.
+                    window.setTimeout(getGeolocationAlt, 100);
+                }
+            };
+
+            var onPosition = function(position) {
+                if (!resultReturned) {
+                    resultReturned = true;
+                    document.cookie = 'geol=' + position.coords.latitude + '|' + position.coords.longitude + '; domain=.travelzoo.com; path=/';
+                    document.cookie = 'nogeo=; domain=.travelzoo.com; path=/; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+                    try {tzoo.gtm.analyticsEvent('LocationDetection', 'Allow', 'Internal', 1, true);} catch(err) {}
+                    params.success();
+                }
+            };
+
+            var onError = function(error) {
+                document.cookie = 'nogeo=true; domain=.travelzoo.com; path=/';
+                if (!resultReturned) {
+                    resultReturned = true;
+                    params.denied();
+                }
+            };
+
+            this.start = function () {
+                getGeolocation();
+
+                if (params.timeout && $.isNumeric(params.timeout))
+                setTimeout(function () {
+                    if (!resultReturned) {
+                        resultReturned = true;
+                        params.denied();
+                    }
+                }, params.timeout);
+            }
+        }
+
+        tzoo.BrowserLocationDetector = {
+            start: function (params) {
+                var detector = new BrowserLocationDetector(params);
+                detector.start();
+            }
+        }
+    })(window.tzoo = window.tzoo || {}, jQuery);
+
+
+
+</script>
+
+  <script>
+        $('#footer-join-input').on('keyup', function () {
+            if ($('#footer-join-input').val().length > 0)
+                $('#footer-join-button').prop("disabled", false);
+            else
+                $('#footer-join-button').prop("disabled", true);
+        });
+        $('.js-header-join a').on('click', function() {
+            tzoo.gtm.analyticsEvent('Global Signup', 'Join for Free Click', location.href);
+        });
+        
+        if (tzoo.platform.Android() && !tzoo.device.AndroidTablet()) {
+          var isCNEdition = (tzoo.CountryCode && tzoo.CountryCode.toUpperCase() == "CN");
+          if (isCNEdition) {
+                //for CN Andriod we'll use APK directly rather than goole play.
+                $('#lnkMobileApp').prop("href", "/androidapp/").prop("target", "_self");
+          }
+          else {
+                $('#lnkMobileApp').prop("href", "https://play.google.com/store/apps/details?id=com.travelzoo.android&hl=en");
+          }
+        }
+        else if (tzoo.platform.iOS() && !tzoo.device.iPad()) {
+            $('#lnkMobileApp').prop("href", "https://itunes.apple.com/us/app/travelzoo-travel-deals-hotels/id451314284?mt=8");
+        }
+        else {
+            $('#lnkMobileApp').prop("href", "/mobile/").prop("target", "_self");
+        }
+        
+                
+        if (tzoo.platform.Android()) {
+          deeplink.setup({
+              android: {
+                  appId: "com.travelzoo.android"
+              }
+          });
+          $.smartbanner({
+              title: "Travelzoo",
+              daysHidden: 0,
+              daysReminder: 0,
+              force: 'android',
+              inGooglePlay: 'In Google Play', 
+              button: 'OPEN', 
+              price: 'Free',
+              daysHidden: 1, // Duration to hide the banner after being closed (0 = always show banner),
+              deeplink: "travelzoo://travelzoo/1/top20/",
+          });
+        }
+        
+        (function ($, tzoo) {
+            tzoo.LabelInSelect();
+            tzoo.LabelInInput();
+            tzoo.LabelInTextarea();
+            tzoo.searchFormInHeader = false;
+            tzoo.layout = tzoo.layout || {};
+            tzoo.layout.reloadHeader = function () {
+              
+              var rh=$.ajax({
+                url: '/Header/GetHeader/?ClientSideLoginLogout=False&ShowMyAccount=True&ShowSignup=True&ShowEditionSelector=True&SignoutRedirectToHomepage=False',
+                cache: false,
+                dataType: 'html'
+              })
+              var rat=$.ajax({
+                url: '/Authentication/RefreshAntiForgeryToken/',
+                cache: false,
+                dataType: 'html'
+              })
+              $.when(rh, rat).done(function (data1, data2) {
+                $('.js-header-content').html(data1[0]);
+                $('#AFTForm').html(data2[0])
+                $(document).trigger('headerreloaded.layout');
+              })
+            };
+            tzoo.layout.setOriginAirports = function (force) {
+                
+
+                if(true && (force || false)) {
+                    var qs = ''
+                    if (force) {
+                        qs = '?force=true'
+                    }
+                    return $.ajax({
+                        url: '/Header/SetOriginAirports/' + qs,
+                        cache: false,
+                        dataType: 'text'
+                    })
+                } else {
+                    return $.Deferred().resolve().promise();
+                }
+            }
+            tzoo.layout.setOriginAirports()
+            tzoo.layout.refreshMemberRecognition = function (fname, fnameDefault, yearDefault, fnameTemplate, yearTemplate) {
+                var val = Cookies.get('user_d');
+                var resolvedyear, year;
+                if (val) {
+                    parms = tzoo.parseParams(val);
+                    
+                    year = parms['yr'];
+                    
+                    if (!fname) {
+                        fname = parms['fname'];
+                    }
+                }
+                
+                if (!fname) {
+                    fname = fnameDefault;
+                }
+                if (year) {
+                    resolvedyear = yearTemplate.replace('{0}', year);
+                } else {
+                    resolvedyear = yearDefault;
+                }
+                var resolvedfname = fnameTemplate.replace('{0}', fname);
+                $('#aMemRecog').html(resolvedfname);
+                $('#liMemberSince').html(resolvedyear);
+                $('#aMemRecog').removeClass("hidden");
+                }
+                tzoo.layout.reloadMemberRecognition = function (fname) {
+                
+                if($('#aMemRecog').length > 0) {
+                    $.ajax({
+                        url: '/Header/GetReloadMemberRecognition/',
+                        success: function (data) {
+                            
+                            if (!fname) {
+                                fname = data.fname;
+                            }
+                            tzoo.layout.refreshMemberRecognition(fname, data.fnameDefault, data.yearDefault, data.fnameTemplate, data.yearTemplate)
+                        }
+                    });
+                }
+            }
+            if ('' == 'signedup') {
+                tzoo.layout.reloadMemberRecognition();
+            }
+            $(document).on("LoadMemberRecognition", function (e, fname) {
+                tzoo.layout.reloadMemberRecognition(fname);
+                var headerMenuToggle = $('.header-menu-toggle, .member-menu-toggle');
+                headerMenuToggle.off('click');
+                headerMenuToggle.on('click', function () {
+                    $(this).toggleClass('menu-open');
+                });
+            });
+            
+            
+            tzoo.PagingStorage.clear()
+            
+                    })(jQuery, window.tzoo = window.tzoo || {});
+  </script>
+  <form name="AFTForm" id="AFTForm">
+    <input name="__RequestVerificationToken" type="hidden" value="ljcMRMGR2a8q5Hzer_OAsg9fP-9qZkFjlMNy1DsV1AQMnJh2oVsAizWz8hTMCBfyoU-pdohViCXNrsMkdowVmnMLcEk1" />
+  </form>
+  
+</body>
+</html>
